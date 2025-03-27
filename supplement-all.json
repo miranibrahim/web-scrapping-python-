@@ -1,0 +1,364 @@
+[
+    {
+        "id": 2225,
+        "medicine_name": "Bextram Gold",
+        "category_name": "Tablet",
+        "slug": "bextram-gold-tablet",
+        "generic_name": "Multivitamin + Multimineral A-Z gold preparation",
+        "strength": "",
+        "manufacturer_name": "Beximco Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231023-WA0174.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30's pack",
+                "unit_size": 30,
+                "price": 360
+            }
+        ]
+    },
+    {
+        "id": 2227,
+        "medicine_name": "Bextram Silver",
+        "category_name": "Tablet",
+        "slug": "bextram-silver-tablet",
+        "generic_name": "Multivitamin + Multimineral A-Z silver preparation",
+        "strength": "",
+        "manufacturer_name": "Beximco Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231023-WA0185.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30's pack",
+                "unit_size": 30,
+                "price": 360
+            }
+        ]
+    },
+    {
+        "id": 6812,
+        "medicine_name": "Filwel Gold",
+        "category_name": "Tablet",
+        "slug": "filwel-gold-tablet",
+        "generic_name": "Multivitamin + Multimineral A-Z gold preparation",
+        "strength": "",
+        "manufacturer_name": "Square Pharmaceuticals PLC.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/filwel-gold-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30's pack",
+                "unit_size": 30,
+                "price": 360
+            }
+        ]
+    },
+    {
+        "id": 1547,
+        "medicine_name": "Atoz Premium",
+        "category_name": "Tablet",
+        "slug": "atoz-premium-tablet",
+        "generic_name": "Multivitamin + Multimineral A-Z gold preparation",
+        "strength": "",
+        "manufacturer_name": "Radiant Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 8,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231219-WA0020_oaE2VqP.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "9's Strip",
+                "unit_size": 9,
+                "price": 117
+            },
+            {
+                "unit": "45's pack",
+                "unit_size": 45,
+                "price": 585
+            }
+        ]
+    },
+    {
+        "id": 14155,
+        "medicine_name": "Proviten Gold",
+        "category_name": "Tablet",
+        "slug": "proviten-gold-tablet",
+        "generic_name": "Multivitamin + Multimineral A-Z gold preparation",
+        "strength": "",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20240529-WA0317.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30's pack",
+                "unit_size": 1,
+                "price": 360
+            }
+        ]
+    },
+    {
+        "id": 1548,
+        "medicine_name": "Atoz Senior",
+        "category_name": "Tablet",
+        "slug": "atoz-senior-tablet",
+        "generic_name": "Multivitamin + Multimineral A-Z silver preparation",
+        "strength": "",
+        "manufacturer_name": "Radiant Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 8,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231219-WA0058.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "9's Strip",
+                "unit_size": 9,
+                "price": 117
+            },
+            {
+                "unit": "45's pack",
+                "unit_size": 45,
+                "price": 585
+            }
+        ]
+    },
+    {
+        "id": 6814,
+        "medicine_name": "Filwel Silver",
+        "category_name": "Tablet",
+        "slug": "filwel-silver-tablet",
+        "generic_name": "Multivitamin + Multimineral A-Z silver preparation",
+        "strength": "",
+        "manufacturer_name": "Square Pharmaceuticals PLC.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/filwel-silver-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30's pack",
+                "unit_size": 30,
+                "price": 360
+            }
+        ]
+    },
+    {
+        "id": 20463,
+        "medicine_name": "Karkuma Joint Guard",
+        "category_name": "Capsule",
+        "slug": "karkuma-joint-guard-90-s-bottle-capsule",
+        "generic_name": "Natural Care for Bone Joint",
+        "strength": "975 mg",
+        "manufacturer_name": "Organic Nutrition Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.29_0449bffc.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "90's Pack",
+                "unit_size": 1,
+                "price": 2170
+            }
+        ]
+    },
+    {
+        "id": 14158,
+        "medicine_name": "Proviten Silver",
+        "category_name": "Tablet",
+        "slug": "proviten-silver-tablet",
+        "generic_name": "Multivitamin + Multimineral A-Z silver preparation",
+        "strength": "",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20240529-WA0321.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30's pack",
+                "unit_size": 1,
+                "price": 360
+            }
+        ]
+    },
+    {
+        "id": 20465,
+        "medicine_name": "Karkuma Organic Healthy Gut",
+        "category_name": "Suspension",
+        "slug": "karkuma-healthy-gut-400-ml-suspension",
+        "generic_name": "Balance Gut Ecology Naturally",
+        "strength": "400 ml",
+        "manufacturer_name": "Organic Nutrition Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Karkuma-Organic-Healthy-Gut-400ml.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "400 ml bottle",
+                "unit_size": 1,
+                "price": 800
+            }
+        ]
+    },
+    {
+        "id": 20466,
+        "medicine_name": "Karkuma Organic Turmeric Immune Booster",
+        "category_name": "Powder",
+        "slug": "karkuma-turmeric-immune-booster-80-gm-powder",
+        "generic_name": "Nourishes Immune System and Health",
+        "strength": "80 gm",
+        "manufacturer_name": "Organic Nutrition Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.28_75657353.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "80 gm Bottle",
+                "unit_size": 1,
+                "price": 390
+            }
+        ]
+    },
+    {
+        "id": 20472,
+        "medicine_name": "Karkuma Organic Apple Cider Vinegar",
+        "category_name": "Vinegar",
+        "slug": "karkuma-apple-cider-vinegar-480-gm-food",
+        "generic_name": "Beneficial to Good Health",
+        "strength": "480 gm",
+        "manufacturer_name": "Organic Nutrition Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.30_f071166b.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "480 gm glass bottle",
+                "unit_size": 1,
+                "price": 650
+            }
+        ]
+    },
+    {
+        "id": 20462,
+        "medicine_name": "Karkuma Organic Imunne Plus",
+        "category_name": "Capsule",
+        "slug": "karkuma-organic-imunne-plus-120-s-bottle-capsule",
+        "generic_name": "Nourishes Immune System and Health",
+        "strength": "450 mg",
+        "manufacturer_name": "Organic Nutrition Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.29_75c1404f.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120's Pack",
+                "unit_size": 1,
+                "price": 850
+            }
+        ]
+    },
+    {
+        "id": 20461,
+        "medicine_name": "Karkuma Organic Superfood",
+        "category_name": "Capsule",
+        "slug": "karkuma-organic-supperfood-120-piece-capsule",
+        "generic_name": "Balances Immunity Naturally",
+        "strength": "450 mg",
+        "manufacturer_name": "Organic Nutrition Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.28_647854f9.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120's Pack",
+                "unit_size": 1,
+                "price": 1000
+            }
+        ]
+    },
+    {
+        "id": 20470,
+        "medicine_name": "Karkuma Organic Honey",
+        "category_name": "Food",
+        "slug": "karkuma-organic-honey-400-gm-food",
+        "generic_name": "Beneficial for Health and Wellness",
+        "strength": "400 gm",
+        "manufacturer_name": "Organic Nutrition Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.30_a59962a7.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "400 gm glass jar",
+                "unit_size": 1,
+                "price": 750
+            }
+        ]
+    },
+    {
+        "id": 20471,
+        "medicine_name": "Karkuma Organic Honey",
+        "category_name": "Honey",
+        "slug": "karkuma-organic-honey-300-gm-food",
+        "generic_name": "Beneficial for Health and Wellness",
+        "strength": "300 gm",
+        "manufacturer_name": "Organic Nutrition Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.31_3b705a46.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "300 gm glass jar",
+                "unit_size": 1,
+                "price": 570
+            }
+        ]
+    }
+]

@@ -1,0 +1,992 @@
+[
+    {
+        "id": 19192,
+        "medicine_name": "NeoCare Baby Wipes",
+        "category_name": "Baby Care",
+        "slug": "neocare-baby-wipes-120-baby-care",
+        "generic_name": "Wipes",
+        "strength": "120",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0084.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120's Pack",
+                "unit_size": 1,
+                "price": 235
+            }
+        ]
+    },
+    {
+        "id": 19509,
+        "medicine_name": "Neocare",
+        "category_name": "Baby Care",
+        "slug": "neocare-newborn-baby-care",
+        "generic_name": "Diaper",
+        "strength": "NewBorn",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20240529-WA0345.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "20's Pack",
+                "unit_size": 1,
+                "price": 640
+            }
+        ]
+    },
+    {
+        "id": 19420,
+        "medicine_name": "Baby Cotton Buds",
+        "category_name": "Baby Care",
+        "slug": "baby-cotton-buds-200-pc-baby-care",
+        "generic_name": "Baby Cotton Buds",
+        "strength": "200 pc",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/8819bdb0b2c63604ca59dae5c5e25fb5.jpeg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "200's Pack",
+                "unit_size": 1,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 19619,
+        "medicine_name": "Savlon Baby Wipes",
+        "category_name": "Baby Care",
+        "slug": "savlon-baby-wipes-160-baby-care",
+        "generic_name": "Wipes",
+        "strength": "160",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20230927-WA0101.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "160's Jar",
+                "unit_size": 1,
+                "price": 230
+            }
+        ]
+    },
+    {
+        "id": 19204,
+        "medicine_name": "Thai Wet Wipes For Baby Moist Tissue",
+        "category_name": "Baby Care",
+        "slug": "thai-wet-wipes-for-baby-moist-tissue-baby-care",
+        "generic_name": "Wipes",
+        "strength": ".",
+        "manufacturer_name": ".",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/thai-wet-wipes-for-baby-moist-tissue-baby-%26-mom-care-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "170 Pcs Jar",
+                "unit_size": 1,
+                "price": 225
+            }
+        ]
+    },
+    {
+        "id": 19186,
+        "medicine_name": "Savlon Baby Wipes (AntiBacterial)",
+        "category_name": "Baby Care",
+        "slug": "savlon-baby-wipes-antibacterial-80-baby-care",
+        "generic_name": "Wipes",
+        "strength": "80",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0083.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120's Pack",
+                "unit_size": 120,
+                "price": 249.96
+            }
+        ]
+    },
+    {
+        "id": 19199,
+        "medicine_name": "Pozzy Baby Wet Towel Wipes",
+        "category_name": "Baby Care",
+        "slug": "pozzy-baby-wet-towel-wipes-baby-care",
+        "generic_name": "Wipes",
+        "strength": "120",
+        "manufacturer_name": ".",
+        "discount_type": "Percentage",
+        "discount_value": 2,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/pozzy-baby-wet-towel-wipes-baby-%26-mom-care-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120's Pack",
+                "unit_size": 120,
+                "price": 245
+            }
+        ]
+    },
+    {
+        "id": 19548,
+        "medicine_name": "Prima 1",
+        "category_name": "Baby Care",
+        "slug": "prima-1-0-to-6-month-baby-care",
+        "generic_name": "Mother's Smile",
+        "strength": "0 to 6 month",
+        "manufacturer_name": "AKG",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/mothers-smile-prima-1-milk-tin-0-6-months-400-gm.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "400 gm Container",
+                "unit_size": 1,
+                "price": 800
+            }
+        ]
+    },
+    {
+        "id": 19198,
+        "medicine_name": "Savlon Baby Wipes",
+        "category_name": "Baby Care",
+        "slug": "savlon-baby-wipes-100-baby-care",
+        "generic_name": "Wipes",
+        "strength": "100",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_savlon_baby_wipes_100pcs.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100's Jar",
+                "unit_size": 1,
+                "price": 220
+            }
+        ]
+    },
+    {
+        "id": 19203,
+        "medicine_name": "Dettol Anti Bacterial Wet Wipes",
+        "category_name": "Baby Care",
+        "slug": "dettol-anti-bacterial-wet-wipes-baby-care",
+        "generic_name": "Wipes",
+        "strength": ".",
+        "manufacturer_name": "Reckitt & Benckiser Bangladesh Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-anti-bacterial-wet-wipes-baby-%26-mom-care-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "10's pack",
+                "unit_size": 10,
+                "price": 75
+            }
+        ]
+    },
+    {
+        "id": 19843,
+        "medicine_name": "Meril Baby Gel Toothpaste (Orange)",
+        "category_name": "Oral Paste",
+        "slug": "meril-baby-gel-toothpaste-orange-oral-paste",
+        "generic_name": "Toothpaste",
+        "strength": "45 gm",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/meril-baby-gel-orange-toothpaste-45-gm.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "45gm Tube",
+                "unit_size": 1,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 20222,
+        "medicine_name": "NAN OPTI Pro 1",
+        "category_name": "Baby Milk",
+        "slug": "nan-opti-pro-1-300-gm-for-0-6-month-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "300 gm (For 0-6 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "300 gm Pack",
+                "unit_size": 1,
+                "price": 800
+            }
+        ]
+    },
+    {
+        "id": 20211,
+        "medicine_name": "Lactogen 1",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-1-350-gm-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "350 gm (For 0-6 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/lectogen.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "350 gm Pack",
+                "unit_size": 1,
+                "price": 650
+            }
+        ]
+    },
+    {
+        "id": 20217,
+        "medicine_name": "Lactogen 3",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-3-350-gm-for-12-24-month-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "350 gm (For 12-24 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "350 gm Pack",
+                "unit_size": 1,
+                "price": 670
+            }
+        ]
+    },
+    {
+        "id": 19508,
+        "medicine_name": "Neocare Diaper Belt.",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-small-baby-care-diaper",
+        "generic_name": "Diaper",
+        "strength": "Small",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/7694508-AMZ-neocare-small-32.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32's Pack",
+                "unit_size": 1,
+                "price": 800
+            }
+        ]
+    },
+    {
+        "id": 19185,
+        "medicine_name": "NeoCare Diaper Belt",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-small-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Small",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Neocare_Diaper_Belt.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "id": 20226,
+        "medicine_name": "NAN AL 110",
+        "category_name": "Baby Milk",
+        "slug": "nan-al-110-400-gm-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "400 gm",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/nestle-nan-al-110-formula-milk-powder-0-6-m-400-gm.jpeg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "400 gm Pack",
+                "unit_size": 1,
+                "price": 1400
+            }
+        ]
+    },
+    {
+        "id": 20578,
+        "medicine_name": "Jumper Breast Pump",
+        "category_name": "Baby Care",
+        "slug": "breast-pump-baby-care",
+        "generic_name": "Breast Pump",
+        "strength": "",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Breast_Pump_2.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "1\u00d71's Pack",
+                "unit_size": 1,
+                "price": 175
+            }
+        ]
+    },
+    {
+        "id": 20214,
+        "medicine_name": "Lactogen 2",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-2-350-gm-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "350 gm (For 6-12 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/nestle-lactogen-3-350-gm-bib-500x500.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "350 gm Pack",
+                "unit_size": 1,
+                "price": 670
+            }
+        ]
+    },
+    {
+        "id": 20215,
+        "medicine_name": "Lactogen 2",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-2-180-gm-for-6-12-month-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "180 gm (For 6-12 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/lactogen-2-180-gm-1633351930025.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "180 gm Pack",
+                "unit_size": 1,
+                "price": 310
+            }
+        ]
+    },
+    {
+        "id": 20218,
+        "medicine_name": "Lactogen 3",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-3-180-gm-for-12-24-month-baby-milk-infant-formula-milk-powder",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "180 gm (For 12-24 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "180 gm Pack",
+                "unit_size": 1,
+                "price": 330
+            }
+        ]
+    },
+    {
+        "id": 19503,
+        "medicine_name": "Neocare Diaper Belt",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-medium-baby-care-diaper",
+        "generic_name": "Diaper",
+        "strength": "Medium",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medium_50_pcs-500x500.jpeg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 1450
+            }
+        ]
+    },
+    {
+        "id": 20221,
+        "medicine_name": "NAN OPTI Pro 1",
+        "category_name": "Baby Milk",
+        "slug": "nan-opti-pro-1-400-gm-from-0-6-month-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "400 gm (From 0-6 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "400 gm Pack",
+                "unit_size": 1,
+                "price": 1250
+            }
+        ]
+    },
+    {
+        "id": 20220,
+        "medicine_name": "Lactogen 4",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-4-180-gm-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "180 gm ( After 2 Years)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "180 gm Pack",
+                "unit_size": 1,
+                "price": 300
+            }
+        ]
+    },
+    {
+        "id": 19518,
+        "medicine_name": "Neocare Wet Wipes",
+        "category_name": "Baby Care",
+        "slug": "neocare-wet-wipes-10-baby-care",
+        "generic_name": "Wipes",
+        "strength": "10",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "10's Pack",
+                "unit_size": 10,
+                "price": 40
+            }
+        ]
+    },
+    {
+        "id": 19502,
+        "medicine_name": "NeoCare Diaper Belt",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-medium-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Medium",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/neocare_m.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32's Pack",
+                "unit_size": 1,
+                "price": 960
+            }
+        ]
+    },
+    {
+        "id": 19369,
+        "medicine_name": "Savlon Antibacterial Wet Wipes",
+        "category_name": "Baby Care",
+        "slug": "savlon-antibacterial-wet-wipes-baby-care-wipes",
+        "generic_name": "Wipes",
+        "strength": "",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_savlon_baby_wipes_80pcs.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "80's Pack",
+                "unit_size": 80,
+                "price": 200
+            }
+        ]
+    },
+    {
+        "id": 20224,
+        "medicine_name": "NAN OPTI Pro 3",
+        "category_name": "Baby Milk",
+        "slug": "nan-opti-pro-3-350-gm-for-12-24-month-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "350 gm (For 12-24 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "350 gm Pack",
+                "unit_size": 1,
+                "price": 900
+            }
+        ]
+    },
+    {
+        "id": 19505,
+        "medicine_name": "Neocare Diaper Belt.",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-large-baby-care-diaper",
+        "generic_name": "Diaper",
+        "strength": "Large",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/neocare-premium-baby-diaper-belt-112.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 1600
+            }
+        ]
+    },
+    {
+        "id": 20227,
+        "medicine_name": "NIDO Forti Grow",
+        "category_name": "Baby Milk",
+        "slug": "nido-forti-grow-350-gm-baby-milk",
+        "generic_name": "Full Cream Milk Powder",
+        "strength": "350 gm",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/9b73d7257c777b1d08144226cc05e432.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "350 gm Pack",
+                "unit_size": 1,
+                "price": 400
+            }
+        ]
+    },
+    {
+        "id": 19505,
+        "medicine_name": "Neocare Diaper Belt.",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-large-baby-care-diaper",
+        "generic_name": "Diaper",
+        "strength": "Large",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/neocare-premium-baby-diaper-belt-112.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 1600
+            }
+        ]
+    },
+    {
+        "id": 19511,
+        "medicine_name": "Neocare Pants",
+        "category_name": "Baby Care",
+        "slug": "neocare-pants-large-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Large",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/neocare_pants_diaper_-_large.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32's Pack",
+                "unit_size": 32,
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "id": 20216,
+        "medicine_name": "Lactogen 3",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-3-400-gm-for-12-24-month-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "400 gm (For 12-24 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "400 gm Pack",
+                "unit_size": 1,
+                "price": 820
+            }
+        ]
+    },
+    {
+        "id": 20219,
+        "medicine_name": "Lactogen 4",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-4-350-gm-after-2-years-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "350 gm (After 2 Years)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "350 gm Pack",
+                "unit_size": 1,
+                "price": 600
+            }
+        ]
+    },
+    {
+        "id": 20223,
+        "medicine_name": "NAN OPTI Pro 2",
+        "category_name": "Baby Milk",
+        "slug": "nan-opti-pro-2-400-gm-for-6-12-month-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "400 gm (For 6-12 Month)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "400 gm Pack",
+                "unit_size": 1,
+                "price": 1250
+            }
+        ]
+    },
+    {
+        "id": 19512,
+        "medicine_name": "Neocare Pants",
+        "category_name": "Baby Care",
+        "slug": "neocare-pants-xl-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/neocare-baby-diaper-pant-xl-12-18-kg-28-pcs.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "28's Pack",
+                "unit_size": 28,
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "id": 20213,
+        "medicine_name": "Lactogen 2",
+        "category_name": "Baby Milk",
+        "slug": "lactogen-2-400-gm-baby-milk-container",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "400 gm (Container)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/nestle-lactogen-2-formula-with-iron-6-m-400-gm_99tiq9q.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "400 gm Container",
+                "unit_size": 1,
+                "price": 850
+            }
+        ]
+    },
+    {
+        "id": 20225,
+        "medicine_name": "NAN OPTI Pro 4",
+        "category_name": "Baby Milk",
+        "slug": "nan-opti-pro-4-350-gm-pack-from-2-5-years-baby-milk",
+        "generic_name": "Infant Formula Milk Powder",
+        "strength": "350 gm Pack (From 2-5 Years)",
+        "manufacturer_name": "Nestle Bangladesh Limited",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/nestle-nan-4-infant-formula-milk-powder-2-years-350-gm.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "350 gm Pack",
+                "unit_size": 1,
+                "price": 900
+            }
+        ]
+    },
+    {
+        "id": 19507,
+        "medicine_name": "Neocare Diaper Belt",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-xl-baby-care-diaper",
+        "generic_name": "Diaper",
+        "strength": "XL",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 1900
+            }
+        ]
+    },
+    {
+        "id": 19202,
+        "medicine_name": "Johnson's Extra Sensitive Baby Wipes",
+        "category_name": "Baby Care",
+        "slug": "johnson-s-extra-sensitive-baby-wipes-baby-care",
+        "generic_name": "Wipes",
+        "strength": "",
+        "manufacturer_name": ".",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/johnson's-extra-sensitive-baby-wipes-baby-%26-mom-care-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "72's Pack",
+                "unit_size": 72,
+                "price": 330
+            }
+        ]
+    },
+    {
+        "id": 19201,
+        "medicine_name": "Savlon Antibacterial Wet Wipes",
+        "category_name": "Baby Care",
+        "slug": "savlon-antibacterial-wet-wipes-baby-care",
+        "generic_name": "Wipes",
+        "strength": "",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/savlon-antibacterial-wet-wipes-baby-%26-mom-care-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "60's Pack",
+                "unit_size": 60,
+                "price": 150
+            }
+        ]
+    },
+    {
+        "id": 19506,
+        "medicine_name": "Neocare Diaper Belt",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-xl-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30's Pack",
+                "unit_size": 1,
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "id": 19510,
+        "medicine_name": "Neocare Pants",
+        "category_name": "Baby Care",
+        "slug": "neocare-pants-medium-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Medium",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "36's Pack",
+                "unit_size": 36,
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "id": 19504,
+        "medicine_name": "Neocare Diaper Belt",
+        "category_name": "Baby Care",
+        "slug": "neocare-diaper-belt-large-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Large",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/neocare-premium-baby-diaper-belt-.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32's Pack",
+                "unit_size": 1,
+                "price": 1088
+            }
+        ]
+    },
+    {
+        "id": 19513,
+        "medicine_name": "Neocare Pants",
+        "category_name": "Baby Care",
+        "slug": "neocare-pants-xxl-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XXL",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/neocare-baby-diaper-pant-xxl-17-kg-24-pcs.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "24's Pack",
+                "unit_size": 24,
+                "price": 1200
+            }
+        ]
+    }
+]

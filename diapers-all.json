@@ -1,0 +1,904 @@
+[
+    {
+        "id": 19215,
+        "medicine_name": "Supermom Mild Baby Wipes",
+        "category_name": "Baby Care",
+        "slug": "supermom-mild-baby-wipes-none-baby-care",
+        "generic_name": "Wipes",
+        "strength": "",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/supermom-mild-baby-wipes-baby-%26-mom-care-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120's Pack",
+                "unit_size": 120,
+                "price": 235
+            }
+        ]
+    },
+    {
+        "id": 20422,
+        "medicine_name": "Bashundhara Baby Diaper Mini",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-mini-s-5s-4-8kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "S 5s (4-8kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/bashundhara-diapant-4-8kg-s.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 140
+            }
+        ]
+    },
+    {
+        "id": 19525,
+        "medicine_name": "Avonee Pant Style Diaper",
+        "category_name": "Baby Care",
+        "slug": "avonee-midi-5-pant-m-7-12kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M 40s (7-12kg)",
+        "manufacturer_name": "Unimax Industries Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/4_uHo8tuw.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "40's Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 19527,
+        "medicine_name": "Avonee Pant Style Diaper",
+        "category_name": "Baby Care",
+        "slug": "avonee-mini-pant-s-4-8kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "S 42s (4-8kg)",
+        "manufacturer_name": "Unimax Industries Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/1.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "42's Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 20195,
+        "medicine_name": "SuperMom Baby Diaper",
+        "category_name": "Baby Care",
+        "slug": "supermom-baby-diaper-m-6-11-kg-m-6-11-kg-5-pcs-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M (6-11 KG) 5 PCS",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 160
+            }
+        ]
+    },
+    {
+        "id": 20446,
+        "medicine_name": "Twinkle Pants Diaper",
+        "category_name": "Baby Care",
+        "slug": "twinkle-pants-diaper-small-42-s-pack-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Small 42's Pack",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Twinkle_Pants_Diaper_small_1.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "42's Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 20419,
+        "medicine_name": "Bashundhara Baby Diaper Mini",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-mini-m-5s-4-9kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M 5s ( 4-9kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/untitled-1-1633933450786.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 110
+            }
+        ]
+    },
+    {
+        "id": 20426,
+        "medicine_name": "Bashundhara Baby Diaper(Standard Series)",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-standard-series-s-40s-3-6kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "S 40s (3-6kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_s_40.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "40' Pack",
+                "unit_size": 1,
+                "price": 760
+            }
+        ]
+    },
+    {
+        "id": 20439,
+        "medicine_name": "Avonee Pant Style Diaper",
+        "category_name": "Baby Care",
+        "slug": "avonee-pant-style-diaper-xl-4s-12-17kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL 4s (12-17kg)",
+        "manufacturer_name": "Unimax Industries Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/8.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "4's Pack",
+                "unit_size": 1,
+                "price": 140
+            }
+        ]
+    },
+    {
+        "id": 20421,
+        "medicine_name": "Bashundhara Baby Diaper Mini",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-mini-xl-4s-11-25kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL 4s (11-25kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/download_1.jpeg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "4's Pack",
+                "unit_size": 1,
+                "price": 110
+            }
+        ]
+    },
+    {
+        "id": 19524,
+        "medicine_name": "Avonee  Pant Style Diaper",
+        "category_name": "Baby Care",
+        "slug": "avonee-junior-pant-xl-12-17kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL 32s (12-17kg)",
+        "manufacturer_name": "Unimax Industries Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/3.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32's Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 19526,
+        "medicine_name": "Avonee Pant Style Diaper",
+        "category_name": "Baby Care",
+        "slug": "avonee-maxi-pant-l-9-14kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L 34s (9-14kg)",
+        "manufacturer_name": "Unimax Industries Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/2.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "34's Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 20191,
+        "medicine_name": "SuperMom Baby Diaper",
+        "category_name": "Baby Care",
+        "slug": "supermom-baby-diaper-s-3-8-kg-small-3-8-kg-60-pcs-baby-care",
+        "generic_name": "Diaper",
+        "strength": "S (3-8 KG) 60 PCS",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "60's Pack",
+                "unit_size": 1,
+                "price": 1500
+            }
+        ]
+    },
+    {
+        "id": 20447,
+        "medicine_name": "Twinkle Pants Diaper",
+        "category_name": "Diaper",
+        "slug": "twinkle-pants-diaper-medium-40-s-pack-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Medium 40's Pack",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Savlon_Twinkle_Baby_Pant_Diaper_Medium_40_pcs_sWeftWw.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "40's Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 20435,
+        "medicine_name": "Avonee Pant Style Diaper",
+        "category_name": "Baby Care",
+        "slug": "avonee-pant-style-diaper-s-5s-4-8kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "S 5s (4-8kg)",
+        "manufacturer_name": "Unimax Industries Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/5.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 140
+            }
+        ]
+    },
+    {
+        "id": 20424,
+        "medicine_name": "Bashundhara Baby Diaper Mini",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-mini-l-4s-9-14kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L 4s (9-14kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "4's Pack",
+                "unit_size": 1,
+                "price": 140
+            }
+        ]
+    },
+    {
+        "id": 20423,
+        "medicine_name": "Bashundhara Baby Diaper Mini",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-mini-m-5s-7-12kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M 5s (7-12kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-09_at_21.07.45_3782f8a2_7-12.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 140
+            }
+        ]
+    },
+    {
+        "id": 20431,
+        "medicine_name": "Bashundhara Baby Diaper(Standard Series)",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-standard-series-m-42s-7-12kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M 40s ( 7-12kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-09_at_20.44.22_7c59ba43.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "40's Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 20404,
+        "medicine_name": "Huggies Wonder Pants",
+        "category_name": "Baby Care",
+        "slug": "huggies-wonder-pants-s-42s-4-8kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "S 40s (4-8kg)",
+        "manufacturer_name": "Huggies",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-08_at_14.06.20_787b1ad5.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "40's Pack",
+                "unit_size": 1,
+                "price": 1275
+            }
+        ]
+    },
+    {
+        "id": 20407,
+        "medicine_name": "Huggies Wonder Pants",
+        "category_name": "Baby Care",
+        "slug": "huggies-wonder-pants-l-32s-9-14kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L 32s(9-14kg)",
+        "manufacturer_name": "Huggies",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-08_at_14.33.04_75a13de7.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32's Pack",
+                "unit_size": 1,
+                "price": 1275
+            }
+        ]
+    },
+    {
+        "id": 20193,
+        "medicine_name": "SuperMom Baby Diaper",
+        "category_name": "Baby Care",
+        "slug": "supermom-baby-diaper-m-6-11-kg-m-6-11-kg-50-pcs-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M (6-11 KG) 50 PCS",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 1500
+            }
+        ]
+    },
+    {
+        "id": 20420,
+        "medicine_name": "Bashundhara Baby Diaper Mini",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-mini-l-4s-7-18kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L 4s (7-18kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/untitled-1-1633933134411.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "4's Pack",
+                "unit_size": 1,
+                "price": 110
+            }
+        ]
+    },
+    {
+        "id": 20425,
+        "medicine_name": "Bashundhara Baby Diaper Mini",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-mini-xl-4s-12-17kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL 4s (12-17kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_4_12-17.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "4's Pack",
+                "unit_size": 1,
+                "price": 140
+            }
+        ]
+    },
+    {
+        "id": 20428,
+        "medicine_name": "Bashundhara Baby Diaper(Standard Series)",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-standard-series-l-32s-7-18kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L 32s (7-18kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05h.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32 's Pack",
+                "unit_size": 1,
+                "price": 760
+            }
+        ]
+    },
+    {
+        "id": 20430,
+        "medicine_name": "Bashundhara Baby Diaper(Standard Series)",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-standard-series-s-42s-4-8kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "S 42s (4-8kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_jd.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "42' Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 20459,
+        "medicine_name": "Twinkle Belt Diaper",
+        "category_name": "Baby Care",
+        "slug": "twinkle-belt-diaper-xl-32-s-pack-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL 32's Pack",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Savlon_Twinkle_Baby_Pant_Diaper_XL_32_pcs.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32's Pack",
+                "unit_size": 1,
+                "price": 1100
+            }
+        ]
+    },
+    {
+        "id": 20456,
+        "medicine_name": "Twinkle Belt Diaper",
+        "category_name": "Baby Care",
+        "slug": "twinkle-belt-diaper-small-44-s-pack-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Small 44's Pack",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Savlon_Twinkle_Baby_Belt_Diaper_Small_44_pcs.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "44's Pack",
+                "unit_size": 1,
+                "price": 1100
+            }
+        ]
+    },
+    {
+        "id": 20196,
+        "medicine_name": "SuperMom Baby Diaper",
+        "category_name": "Baby Care",
+        "slug": "supermom-baby-diaper-l-9-14-kg-l-9-14-kg-5-pcs-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L (9-14 KG) 5 PCS",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 170
+            }
+        ]
+    },
+    {
+        "id": 20409,
+        "medicine_name": "Huggies Wonder Pants",
+        "category_name": "Baby Care",
+        "slug": "huggies-wonder-pants-xl-24s-12-17kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL 24s(12-17kg)",
+        "manufacturer_name": "Huggies",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-08_at_15.05.01_fee43b94.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "24's Pack",
+                "unit_size": 1,
+                "price": 1220
+            }
+        ]
+    },
+    {
+        "id": 20192,
+        "medicine_name": "SuperMom Baby Diaper",
+        "category_name": "Baby Care",
+        "slug": "supermom-baby-diaper-xl-12-17-kg-xl-12-17-kg-40-pcs-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL (12-17 KG) 40 PCS",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "40's Pack",
+                "unit_size": 1,
+                "price": 1500
+            }
+        ]
+    },
+    {
+        "id": 20458,
+        "medicine_name": "Twinkle Belt Diaper",
+        "category_name": "Baby Care",
+        "slug": "twinkle-belt-diaper-large-36-s-pack-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Large 36's Pack",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "36's Pack",
+                "unit_size": 1,
+                "price": 1100
+            }
+        ]
+    },
+    {
+        "id": 20459,
+        "medicine_name": "Twinkle Belt Diaper",
+        "category_name": "Baby Care",
+        "slug": "twinkle-belt-diaper-xl-32-s-pack-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL 32's Pack",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Savlon_Twinkle_Baby_Pant_Diaper_XL_32_pcs.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "32's Pack",
+                "unit_size": 1,
+                "price": 1100
+            }
+        ]
+    },
+    {
+        "id": 20410,
+        "medicine_name": "Huggies Wonder Pants",
+        "category_name": "Baby Care",
+        "slug": "huggies-wonder-pants-xl-34s-12-17kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "XL 34s (12-17kg) SJ",
+        "manufacturer_name": "Huggies",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-08_at_14.06.18_840410a9.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "34's Pack",
+                "unit_size": 1,
+                "price": 1715
+            }
+        ]
+    },
+    {
+        "id": 20418,
+        "medicine_name": "Bashundhara Baby Diaper Mini",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-mini-s-5s-3-6kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "S 5s(3-6kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-09_at_21.10.42_0f8415c7_3-6.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 110
+            }
+        ]
+    },
+    {
+        "id": 20408,
+        "medicine_name": "Huggies Wonder Pants",
+        "category_name": "Baby Care",
+        "slug": "huggies-wonder-pants-l-42s-9-14kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L 42s (9-14kg) SJ",
+        "manufacturer_name": "Huggies",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-08_at_14.06.18_3e47e195.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "42's Pack",
+                "unit_size": 1,
+                "price": 1825
+            }
+        ]
+    },
+    {
+        "id": 20406,
+        "medicine_name": "Huggies Wonder Pants",
+        "category_name": "Baby Care",
+        "slug": "huggies-wonder-pants-m-34s-7-12kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M 34s(7-12kg)",
+        "manufacturer_name": "Huggies",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-08_at_14.37.06_c6e49ba7.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "34s Pack",
+                "unit_size": 1,
+                "price": 1275
+            }
+        ]
+    },
+    {
+        "id": 20405,
+        "medicine_name": "Huggies Wonder Pants",
+        "category_name": "Baby Care",
+        "slug": "huggies-wonder-pants-m-50-s-7-12kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M 50s (7-12kg) SJ",
+        "manufacturer_name": "Huggies",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-08_at_14.06.19_38716c1b.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 1825
+            }
+        ]
+    },
+    {
+        "id": 20432,
+        "medicine_name": "Bashundhara Baby Diaper(Standard Series)",
+        "category_name": "Baby Care",
+        "slug": "basundhara-baby-diaper-standard-series-l-34s-9-14kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L 34s (9-14kg)",
+        "manufacturer_name": "Bashundhara Paper Mills Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-05-09_at_20.35.33_29b3b2e5.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "34's Pack",
+                "unit_size": 1,
+                "price": 890
+            }
+        ]
+    },
+    {
+        "id": 20437,
+        "medicine_name": "Avonee Pant Style Diaper",
+        "category_name": "Baby Care",
+        "slug": "avonee-pant-style-diaper-m-5s-7-12kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "M 5s (7-12kg)",
+        "manufacturer_name": "Unimax Industries Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/7.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 140
+            }
+        ]
+    },
+    {
+        "id": 20438,
+        "medicine_name": "Avonee Pant Style Diaper",
+        "category_name": "Baby Care",
+        "slug": "avonee-pant-style-diaper-l-4s-9-14kg-baby-care",
+        "generic_name": "Diaper",
+        "strength": "L 5s (9-14kg)",
+        "manufacturer_name": "Unimax Industries Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "5's Pack",
+                "unit_size": 1,
+                "price": 140
+            }
+        ]
+    },
+    {
+        "id": 20457,
+        "medicine_name": "Twinkle Belt Diaper",
+        "category_name": "Baby Care",
+        "slug": "twinkle-belt-diaper-medium-40-s-pack-baby-care",
+        "generic_name": "Diaper",
+        "strength": "Medium 40's Pack",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Savlon_Twinkle_Baby_Belt_Diaper_Medium_40_pcs_1.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "40's Pack",
+                "unit_size": 1,
+                "price": 1100
+            }
+        ]
+    }
+]

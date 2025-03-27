@@ -1,0 +1,1330 @@
+[
+    {
+        "id": 4412,
+        "medicine_name": "Dancel",
+        "category_name": "Shampoo",
+        "slug": "dancel-2-shampoo",
+        "generic_name": "Ketoconazole",
+        "strength": "100 ml",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20240529-WA0014.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100 ml bottle",
+                "unit_size": 1,
+                "price": 230
+            }
+        ]
+    },
+    {
+        "id": 19424,
+        "medicine_name": "One Time Bandage (NewStrip)",
+        "category_name": "Cotton Strips",
+        "slug": "neostrip-first-aid-strip-cotton-strips",
+        "generic_name": "One Time Bandage",
+        "strength": "First Aid Strip",
+        "manufacturer_name": "Neoplast Co Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/NeoStrip-First-Aid-trip.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2
+            },
+            {
+                "unit": "100's Pack",
+                "unit_size": 100,
+                "price": 200
+            }
+        ]
+    },
+    {
+        "id": 15657,
+        "medicine_name": "Select-Plus",
+        "category_name": "Shampoo",
+        "slug": "select-plus-2-shampoo",
+        "generic_name": "Ketoconazole",
+        "strength": "2%",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 7,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_select_plus.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "75 ml bottle",
+                "unit_size": 1,
+                "price": 200
+            }
+        ]
+    },
+    {
+        "id": 8737,
+        "medicine_name": "Isabgul Plus",
+        "category_name": "Powder",
+        "slug": "isabgul-plus-3-gm-1-gm-4-gm-effervescent-powder",
+        "generic_name": "Ispaghula Husk + Herbal",
+        "strength": "100 gm",
+        "manufacturer_name": "Ibn-Sina Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0146.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100 gm container",
+                "unit_size": 1,
+                "price": 495
+            }
+        ]
+    },
+    {
+        "id": 19453,
+        "medicine_name": "Nizoder",
+        "category_name": "Shampoo",
+        "slug": "nizoder-120-ml-shampoo",
+        "generic_name": "Ketoconazole",
+        "strength": "120 ml",
+        "manufacturer_name": "Unimed Unihealth MFG. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0192_cSXajsz.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120 ml bottle",
+                "unit_size": 1,
+                "price": 300
+            }
+        ]
+    },
+    {
+        "id": 19141,
+        "medicine_name": "Alcohol Pad",
+        "category_name": "Pad",
+        "slug": "alcohol-pad-100-pcs-pad",
+        "generic_name": "Alcohol Pad",
+        "strength": "100 PCS",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0155.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100's Pack",
+                "unit_size": 100,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 19156,
+        "medicine_name": "Sunmask",
+        "category_name": "Cream",
+        "slug": "sunmask-60gm-tube-covid-19-essentials",
+        "generic_name": "Sunmask Cream",
+        "strength": "60gm Tube",
+        "manufacturer_name": "Square Pharmaceuticals PLC.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231021-WA0163.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 250
+            }
+        ]
+    },
+    {
+        "id": 19140,
+        "medicine_name": "N95 Mask Particulate Respirator Face Mask",
+        "category_name": "Surgical Mask",
+        "slug": "surgical-mask-3-layer-50-p-covid-19-essentials",
+        "generic_name": "Health Care Particulate Respirator",
+        "strength": "Model 3M 8210",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 50,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/N95_mask_Q93toYj.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 450
+            },
+            {
+                "unit": "20's Pack",
+                "unit_size": 20,
+                "price": 9000
+            }
+        ]
+    },
+    {
+        "id": 19113,
+        "medicine_name": "Absorbent Cotton Wool",
+        "category_name": "Cotton Wool",
+        "slug": "cotton-wool-15-gm-wool",
+        "generic_name": "Absorbent Cotton Wool",
+        "strength": "50 gm",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0160.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50 grams",
+                "unit_size": 1,
+                "price": 25
+            }
+        ]
+    },
+    {
+        "id": 19425,
+        "medicine_name": "Isabgul Plus",
+        "category_name": "Sachet",
+        "slug": "isabgul-plus-3-gm-1-gm-sachet",
+        "generic_name": "Isabgul Spicy",
+        "strength": "4 gm",
+        "manufacturer_name": "Ibn-Sina Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0105.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "20's Sachets",
+                "unit_size": 1,
+                "price": 450
+            }
+        ]
+    },
+    {
+        "id": 19814,
+        "medicine_name": "One Time Bandage (Green Strip)",
+        "category_name": "Cotton Strips",
+        "slug": "green-strip-first-aid",
+        "generic_name": "One Time Bandage",
+        "strength": "",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0062.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "1 piece",
+                "unit_size": 1,
+                "price": 2
+            },
+            {
+                "unit": "100's Pack",
+                "unit_size": 100,
+                "price": 200
+            }
+        ]
+    },
+    {
+        "id": 19628,
+        "medicine_name": "Fresh Hand Towel",
+        "category_name": "Tissue",
+        "slug": "fresh-hand-towel-tissue",
+        "generic_name": "Hand Towel",
+        "strength": "250 Sheets",
+        "manufacturer_name": "MGI",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0093.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Pack",
+                "unit_size": 1,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 10977,
+        "medicine_name": "Moov Cream Indian",
+        "category_name": "Cream",
+        "slug": "moov-1-16-cream",
+        "generic_name": "Pain Relief Specialist",
+        "strength": "20 gm",
+        "manufacturer_name": "Astra Biopharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_moov.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "20 gm tube",
+                "unit_size": 1,
+                "price": 260
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "medicine_name": "Acne-Aid",
+        "category_name": "Medicated Bar",
+        "slug": "acne-aid-6-3-medicated-bar",
+        "generic_name": "Sulphonated Surfactant",
+        "strength": "6.3%",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 15,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20240122-WA0268.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100 gm bar",
+                "unit_size": 1,
+                "price": 310
+            }
+        ]
+    },
+    {
+        "id": 19865,
+        "medicine_name": "Fresh Toilet Tissue",
+        "category_name": "Toilet Tissue",
+        "slug": "fresh-toilet-tissue-174-2-348-sheet-toilet-tissue",
+        "generic_name": "Toilet Tissue",
+        "strength": "",
+        "manufacturer_name": "MGI",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0100.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 25
+            }
+        ]
+    },
+    {
+        "id": 19144,
+        "medicine_name": "Hand Gloves Latex",
+        "category_name": "COVID-19 Essentials",
+        "slug": "hand-gloves-latex-large-8-9-covid-19-essentials",
+        "generic_name": "Hand Gloves",
+        "strength": "Large (8-9)",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/hand-gloves-latex-(health-plus)-covid-19-product-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 10
+            },
+            {
+                "unit": "100's Box",
+                "unit_size": 100,
+                "price": 1000
+            }
+        ]
+    },
+    {
+        "id": 19110,
+        "medicine_name": "Ring Guard",
+        "category_name": "Cream",
+        "slug": "ring-guard-miconazole-nitrate-2-neomycin-sulphate-50-cream",
+        "generic_name": "N/A",
+        "strength": "Miconazole Nitrate 2%+ Neomycin Sulphate  .50%",
+        "manufacturer_name": "Indian",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0067.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "12 gm tube",
+                "unit_size": 1,
+                "price": 180
+            }
+        ]
+    },
+    {
+        "id": 10978,
+        "medicine_name": "Moov Spray Indian",
+        "category_name": "Spray",
+        "slug": "moov-spray-100-mg-spray",
+        "generic_name": "Pain Relief Specialist",
+        "strength": "50 gm",
+        "manufacturer_name": "Astra Biopharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_moove_active_spray.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50 gm bottle",
+                "unit_size": 1,
+                "price": 420
+            }
+        ]
+    },
+    {
+        "id": 19627,
+        "medicine_name": "Fresh Paper Napkin",
+        "category_name": "Paper Napkin",
+        "slug": "fresh-paper-napkin-paper-napkin-paper-napkin",
+        "generic_name": "Paper Napkin",
+        "strength": "100 Sheets",
+        "manufacturer_name": "MGI",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0095.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Pack",
+                "unit_size": 1,
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 19161,
+        "medicine_name": "Dettol Liquid",
+        "category_name": "Antiseptic",
+        "slug": "dettol-liquid-500ml-covid-19-essentials",
+        "generic_name": "Antiseptic Disinfectant",
+        "strength": "750 ml",
+        "manufacturer_name": "Reckitt & Benckiser Bangladesh Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-liquid-covid-19-product-750ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "750 ml bottle",
+                "unit_size": 1,
+                "price": 250
+            }
+        ]
+    },
+    {
+        "id": 19178,
+        "medicine_name": "Savlon Handwash (Ocean Blue Antiseptic)",
+        "category_name": "Refill",
+        "slug": "savlon-handwash-ocean-blue-antiseptic-200-ml-refill",
+        "generic_name": "Handwash Refill",
+        "strength": "170 ml",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20230927-WA0255.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "170 ml Pack",
+                "unit_size": 1,
+                "price": 75
+            }
+        ]
+    },
+    {
+        "id": 19626,
+        "medicine_name": "Fresh Facial Tissue",
+        "category_name": "Tissue",
+        "slug": "fresh-facial-tissue-tissue",
+        "generic_name": "Facial Tissue",
+        "strength": "120 Sheets",
+        "manufacturer_name": "MGI",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/fresh-facial-tissue-120-sheets_XGddfNo.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Pack",
+                "unit_size": 1,
+                "price": 80
+            }
+        ]
+    },
+    {
+        "id": 19138,
+        "medicine_name": "Surgical Mask (Meltblown)",
+        "category_name": "COVID-19 Essentials",
+        "slug": "surgical-mask-meltblowon-3-layer-covid-19-essentials",
+        "generic_name": "Meltblown Disposable Face Mask",
+        "strength": "3 Layer",
+        "manufacturer_name": "Beximco Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0200.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "1 piece",
+                "unit_size": 1,
+                "price": 5
+            }
+        ]
+    },
+    {
+        "id": 20067,
+        "medicine_name": "Fresh Hand Towel",
+        "category_name": "Tissue",
+        "slug": "fresh-hand-towel-150-sheet-tissue",
+        "generic_name": "Hand Towel",
+        "strength": "150 Sheet",
+        "manufacturer_name": "MGI",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0143.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Pack",
+                "unit_size": 1,
+                "price": 48
+            }
+        ]
+    },
+    {
+        "id": 20574,
+        "medicine_name": "Gacotouch Neem Soap",
+        "category_name": "Personal Care",
+        "slug": "gacotouch-neem-soap-102gm-personal-care",
+        "generic_name": "soap",
+        "strength": "102gm",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/GacoTouch_Soap.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 85
+            }
+        ]
+    },
+    {
+        "id": 19630,
+        "medicine_name": "Hand Gloves Latex",
+        "category_name": "Covid-19 Essential",
+        "slug": "hand-gloves-latex-medium-7-8-covid-19-essential",
+        "generic_name": "Examination Gloves",
+        "strength": "Medium (7-8)",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0089.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 10
+            },
+            {
+                "unit": "100's Box",
+                "unit_size": 100,
+                "price": 1000
+            }
+        ]
+    },
+    {
+        "id": 19931,
+        "medicine_name": "Glycerine Pure",
+        "category_name": "Personal Care",
+        "slug": "glycerine-pure-200-gm-",
+        "generic_name": "Glycerin",
+        "strength": "200 gm",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_glycerine_pure.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "200 gm",
+                "unit_size": 1,
+                "price": 110
+            }
+        ]
+    },
+    {
+        "id": 19166,
+        "medicine_name": "Dettol Liquid",
+        "category_name": "Antiseptic",
+        "slug": "dettol-liquid-750-ml-covid-19-essentials",
+        "generic_name": "Antiseptic Disinfectant",
+        "strength": "500 ml",
+        "manufacturer_name": "Reckitt & Benckiser Bangladesh Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-liquid-covid-19-product-500ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "500 ml bottle",
+                "unit_size": 1,
+                "price": 175
+            }
+        ]
+    },
+    {
+        "id": 19813,
+        "medicine_name": "Medi Tape",
+        "category_name": "First Aid",
+        "slug": "medi-tape-25mm-9m-roll-first-aid",
+        "generic_name": "Surgical Tape",
+        "strength": "25mm \u00d7 9m Roll",
+        "manufacturer_name": "JMS",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0156.jpg",
+        "rx_required": true,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 100
+            },
+            {
+                "unit": "12's Pack",
+                "unit_size": 12,
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "id": 20188,
+        "medicine_name": "Moov Cream Indian",
+        "category_name": "Cream",
+        "slug": "moov-cream-30-gm-cream",
+        "generic_name": "Pain Relief Specialist",
+        "strength": "30 gm",
+        "manufacturer_name": "Astra Biopharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20240731-WA0076.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30 gm Tube",
+                "unit_size": 1,
+                "price": 300
+            }
+        ]
+    },
+    {
+        "id": 19617,
+        "medicine_name": "Savlon Handwash (Aloe Vera Antiseptic)",
+        "category_name": "Refill",
+        "slug": "savlon-handwash-aloe-vera-antiseptic-200-ml-refill",
+        "generic_name": "Handwash Refill",
+        "strength": "170 ml",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20230927-WA0131.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "170 ml Pack",
+                "unit_size": 1,
+                "price": 75
+            }
+        ]
+    },
+    {
+        "id": 19933,
+        "medicine_name": "Glycerin Pure",
+        "category_name": "Personal Care",
+        "slug": "glycerin-pure-60-gm-",
+        "generic_name": "Glycerin",
+        "strength": "60 gm",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0163.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "60 gm bottle",
+                "unit_size": 1,
+                "price": 50
+            }
+        ]
+    },
+    {
+        "id": 19616,
+        "medicine_name": "Savlon Handwash (Aloe Vera Antiseptic)",
+        "category_name": "Hand Wash Bottle",
+        "slug": "savlon-handwash-aloe-vera-antiseptic-250-ml-bottle-hand-wash-bottle",
+        "generic_name": "Handwash Bottle",
+        "strength": "200 ml bottle",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20230927-WA0153.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "200 ml bottle",
+                "unit_size": 1,
+                "price": 105
+            }
+        ]
+    },
+    {
+        "id": 19618,
+        "medicine_name": "Savlon Handwash (Ocean Blue Antiseptic)",
+        "category_name": "Hand Wash Bottle",
+        "slug": "savlon-handwash-ocean-blue-antiseptic-250-ml-hand-wash-bottle",
+        "generic_name": "Handwash Bottle",
+        "strength": "200 ml",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_savlon_250ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "200 ml bottle",
+                "unit_size": 1,
+                "price": 105
+            }
+        ]
+    },
+    {
+        "id": 20792,
+        "medicine_name": "Odomos Cream-Indian",
+        "category_name": "Cream",
+        "slug": "omodos-cream-indian-50-gm-cream",
+        "generic_name": "Non-Sticky Mosquito Repellent Cream",
+        "strength": "50 gm",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Odomos.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 190
+            }
+        ]
+    },
+    {
+        "id": 20669,
+        "medicine_name": "Moov Cream UAE",
+        "category_name": "Cream",
+        "slug": "moov-cream-100-gm-cream",
+        "generic_name": "Pain Relief Specialist",
+        "strength": "100 gm",
+        "manufacturer_name": "Astra Biopharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Moov_100.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100 gm",
+                "unit_size": 1,
+                "price": 490
+            }
+        ]
+    },
+    {
+        "id": 20786,
+        "medicine_name": "Zandu Ultra Power Balm-Indian",
+        "category_name": "Cream",
+        "slug": "zandu-ultra-power-balm-8-ml-cream",
+        "generic_name": "Headache Relief Specialist",
+        "strength": "8 ml",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/8901248701129.jpg",
+        "rx_required": true,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 150
+            }
+        ]
+    },
+    {
+        "id": 19932,
+        "medicine_name": "Glycerin Pure",
+        "category_name": "Personal Care",
+        "slug": "glycerin-pure-120-gm-",
+        "generic_name": "Glycerin",
+        "strength": "120 gm",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0162.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120 gm bottle",
+                "unit_size": 1,
+                "price": 80
+            }
+        ]
+    },
+    {
+        "id": 20236,
+        "medicine_name": "G-Acne Gel",
+        "category_name": "Gel",
+        "slug": "g-acne-gel-30-gm-gel",
+        "generic_name": ".",
+        "strength": "30 gm",
+        "manufacturer_name": "GM Trade International Corporation",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "30 gm Tube",
+                "unit_size": 1,
+                "price": 1150
+            }
+        ]
+    },
+    {
+        "id": 19169,
+        "medicine_name": "Dettol Handwash Skincare Liquid Soap Refill",
+        "category_name": "COVID-19 Essentials",
+        "slug": "dettol-handwash-skincare-liquid-soap-refill-170ml-covid-19-essentials",
+        "generic_name": "Liquid Soap Refill",
+        "strength": "170ml",
+        "manufacturer_name": "Reckitt & Benckiser Bangladesh Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-handwash-skincare-liquid-soap-refill-covid-19-product-170ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "170ml Pack",
+                "unit_size": 1,
+                "price": 65
+            }
+        ]
+    },
+    {
+        "id": 19169,
+        "medicine_name": "Dettol Handwash Skincare Liquid Soap Refill",
+        "category_name": "COVID-19 Essentials",
+        "slug": "dettol-handwash-skincare-liquid-soap-refill-170ml-covid-19-essentials",
+        "generic_name": "Liquid Soap Refill",
+        "strength": "170ml",
+        "manufacturer_name": "Reckitt & Benckiser Bangladesh Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-handwash-skincare-liquid-soap-refill-covid-19-product-170ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "170ml Pack",
+                "unit_size": 1,
+                "price": 65
+            }
+        ]
+    },
+    {
+        "id": 19171,
+        "medicine_name": "Dettol Handwash (Cool)",
+        "category_name": "Cool Bottle With Push-Pull Cap",
+        "slug": "dettol-handwash-cool-200ml-cool-bottle-with-push-pull-cap",
+        "generic_name": "Handwash",
+        "strength": "200ml",
+        "manufacturer_name": "Reckitt & Benckiser Bangladesh Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-handwash-cool-bottle-with-push-pull-cap-covid-19-product-200ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "200ml Pack",
+                "unit_size": 1,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 19736,
+        "medicine_name": "Hair Growth",
+        "category_name": "Shampoo",
+        "slug": "hair-growth-shampoo",
+        "generic_name": "Shampoo",
+        "strength": "",
+        "manufacturer_name": "Neofollics Hair Technology",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": true,
+        "unit_prices": [
+            {
+                "unit": "250 ml bottle",
+                "unit_size": 1,
+                "price": 2475
+            }
+        ]
+    },
+    {
+        "id": 20846,
+        "medicine_name": "Select-Plus",
+        "category_name": "Shampoo",
+        "slug": "select-plus-200-ml-shampoo",
+        "generic_name": "Ketoconazole",
+        "strength": "200 ml",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 7,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "200 ml",
+                "unit_size": 1,
+                "price": 400
+            }
+        ]
+    },
+    {
+        "id": 20695,
+        "medicine_name": "Surgical Scissors-Straight.",
+        "category_name": "Scissor",
+        "slug": "surgical-scissors-straigh-scissor",
+        "generic_name": "Scissor",
+        "strength": "",
+        "manufacturer_name": "Non-Pharma",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/14004-12-front-c.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 175
+            }
+        ]
+    },
+    {
+        "id": 19181,
+        "medicine_name": "Dettol Handwash (Skincare)",
+        "category_name": "Skincare Everyday Protection Pump",
+        "slug": "dettol-handwash-skincare-200ml-skincare-everyday-protection-pump",
+        "generic_name": "Handwash",
+        "strength": "200ml",
+        "manufacturer_name": "Reckitt & Benckiser Bangladesh Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-handwash-original-liquid-soap-pump-covid-19-product-200ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "200ml Pack",
+                "unit_size": 1,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 20738,
+        "medicine_name": "ProDentalB Breath Spray Spear Mint",
+        "category_name": "Personal Care",
+        "slug": "prodental-breath-spray-spear-mint-20-ml-personal-care",
+        "generic_name": "Breath Spray",
+        "strength": "20 ml",
+        "manufacturer_name": "ProDentalB",
+        "discount_type": "Percentage",
+        "discount_value": 7,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/ProDentalB_Breath_Spray_Spear_Mint.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 255
+            }
+        ]
+    },
+    {
+        "id": 19182,
+        "medicine_name": "Dettol Original Liquid Hand Wash Refill",
+        "category_name": "COVID-19 Essentials",
+        "slug": "dettol-original-liquid-hand-wash-refill-170ml-covid-19-essentials",
+        "generic_name": "Handwash",
+        "strength": "170ml",
+        "manufacturer_name": ".",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-original-liquid-hand-wash-refill-covid-19-product-170ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "170ml pack",
+                "unit_size": 1,
+                "price": 60
+            }
+        ]
+    },
+    {
+        "id": 19168,
+        "medicine_name": "Dettol Handwash (Aloe Vera)",
+        "category_name": "Aloe Vera Bottle With Push-Pull Cap",
+        "slug": "dettol-handwash-aloe-vera-200ml-aloe-vera-bottle-with-push-pull-cap",
+        "generic_name": "Handwash",
+        "strength": "200ml",
+        "manufacturer_name": "Reckitt & Benckiser Bangladesh Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/dettol-handwash-aloe-vera-bottle-with-push-pull-cap-covid-19-product-200ml.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "200ml Pack",
+                "unit_size": 1,
+                "price": 105
+            }
+        ]
+    },
+    {
+        "id": 20700,
+        "medicine_name": "JMI First Aid Box Large",
+        "category_name": "First Aid",
+        "slug": "first-aid-box-large-first-aid",
+        "generic_name": "Plastic Body",
+        "strength": "",
+        "manufacturer_name": "Non-Pharma",
+        "discount_type": "Percentage",
+        "discount_value": 18,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/First_aid_Box_Plastic_1.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 550
+            }
+        ]
+    },
+    {
+        "id": 19812,
+        "medicine_name": "Tongue Depressor",
+        "category_name": "First Aid",
+        "slug": "tongue-depressor-first-aid",
+        "generic_name": ".",
+        "strength": "",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": true,
+        "unit_prices": [
+            {
+                "unit": "100's Pack",
+                "unit_size": 100,
+                "price": 500
+            }
+        ]
+    },
+    {
+        "id": 20694,
+        "medicine_name": "First Aid Box",
+        "category_name": "First Aid",
+        "slug": "first-aid-box-first-aid-kit-n-a-healthcare",
+        "generic_name": "Aluminum Body",
+        "strength": "12\u00d77\u00d77.5\"",
+        "manufacturer_name": "Non-Pharma",
+        "discount_type": "Percentage",
+        "discount_value": 18,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/First_Aid_Kit_Box_-.original.jpegquality-30.format-webp.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2200
+            }
+        ]
+    },
+    {
+        "id": 20856,
+        "medicine_name": "Meril Rose Water Glycerine",
+        "category_name": "Personal Care",
+        "slug": "meril-rose-water-glycerine-120-ml-personal-care",
+        "generic_name": "Glycerin",
+        "strength": "120 ml",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Meril-Rose-Water-Glycerin-120-gm.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120 ml bottle",
+                "unit_size": 1,
+                "price": 175
+            }
+        ]
+    },
+    {
+        "id": 19114,
+        "medicine_name": "First Aid Strip",
+        "category_name": "N/A",
+        "slug": "first-aid-strip-n-a-n-a",
+        "generic_name": "N/A",
+        "strength": "N/A",
+        "manufacturer_name": "M/S Alamin & Son's",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": true,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2
+            }
+        ]
+    },
+    {
+        "id": 20828,
+        "medicine_name": "Inara Saffron Goat's Milk Soap (Handmade)",
+        "category_name": "Saffron Goat's Milk Soap",
+        "slug": "inara-saffron-goat-s-milk-soap-handmade-100-gm-saffron-goat-s-milk-soap",
+        "generic_name": "soap",
+        "strength": "100g",
+        "manufacturer_name": "Inara",
+        "discount_type": "Percentage",
+        "discount_value": 18,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-09-03_at_01.41.15_4cfc3b37.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 950
+            }
+        ]
+    },
+    {
+        "id": 20855,
+        "medicine_name": "Meril Rose Water Glycerine",
+        "category_name": "Personal Care",
+        "slug": "meril-rose-water-glycerine-60-ml-personal-care",
+        "generic_name": "Glycerin",
+        "strength": "60 ml",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Meril-Rose-Water-Glycerin-60-gm.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "60 ml bottle",
+                "unit_size": 1,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 20860,
+        "medicine_name": "ProDentalB Breath Spray (Orange)",
+        "category_name": "Personal Care",
+        "slug": "prodentalb-breath-spray-orange-20-ml-personal-care",
+        "generic_name": "Breath Spray",
+        "strength": "20 ml",
+        "manufacturer_name": "ProDentalB",
+        "discount_type": "Percentage",
+        "discount_value": 7,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/prodentalb-orange-breath-spray-mouth-freshener-20-ml.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 255
+            }
+        ]
+    },
+    {
+        "id": 20953,
+        "medicine_name": "Dancel",
+        "category_name": "Shampoo",
+        "slug": "dancel-120-ml-shampoo",
+        "generic_name": "Ketoconazole",
+        "strength": "120 ml",
+        "manufacturer_name": "Incepta Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/default-medicine.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120 ml bottle",
+                "unit_size": 1,
+                "price": 300
+            }
+        ]
+    },
+    {
+        "id": 20982,
+        "medicine_name": "Sepnil Face Mask",
+        "category_name": "Face Mask",
+        "slug": "sepnil-face-mask-blue-face-mask",
+        "generic_name": "Face Mask",
+        "strength": "Blue",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 30,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/sepnil-face-mask-1-box-50-pcs.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 320
+            }
+        ]
+    }
+]

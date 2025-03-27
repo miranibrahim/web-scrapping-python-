@@ -1,0 +1,670 @@
+[
+    {
+        "id": 19080,
+        "medicine_name": "NovoFine Needle",
+        "category_name": "Insulin Needle",
+        "slug": "novofine-needle-3-ml-insulin-needle",
+        "generic_name": "Pen Needle",
+        "strength": "3 ml",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0066.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 12.5
+            },
+            {
+                "unit": "100's pack",
+                "unit_size": 100,
+                "price": 1250
+            }
+        ]
+    },
+    {
+        "id": 20086,
+        "medicine_name": "Insulin Syringe (Korean)100IU",
+        "category_name": "Syringe",
+        "slug": "insulin-syringes-korean-u-100-syringe",
+        "generic_name": "Single Use Insulin Syringes",
+        "strength": "U-100 1ml",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0077.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 12
+            },
+            {
+                "unit": "100's Pack",
+                "unit_size": 100,
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "id": 19230,
+        "medicine_name": "DispoVan Syringe 100IU",
+        "category_name": "Diabetics Care",
+        "slug": "dispo-van-u-100-1ml-syringe",
+        "generic_name": "Single Use Insulin Syringes",
+        "strength": "U-100 1ml",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0076_zaOSAYL.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 10
+            },
+            {
+                "unit": "100's Pack",
+                "unit_size": 100,
+                "price": 1000
+            }
+        ]
+    },
+    {
+        "id": 19498,
+        "medicine_name": "GlucoLeader Enhance Red Test Strip",
+        "category_name": "Test Strip",
+        "slug": "glucoleader-25-strips",
+        "generic_name": "Blood Glucose Strips",
+        "strength": "25",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 2,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0072.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Strips",
+                "unit_size": 1,
+                "price": 462
+            }
+        ]
+    },
+    {
+        "id": 19233,
+        "medicine_name": "Accu-Chek Active",
+        "category_name": "Blood Glucose Test Strips",
+        "slug": "accu-chek-active-50-strips-blood-glucose-test-strips",
+        "generic_name": "Blood glucose monitoring device",
+        "strength": "100 Strips",
+        "manufacturer_name": "Radiant Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 4,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_accu-chek_50.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100's Test Strips",
+                "unit_size": 100,
+                "price": 2056
+            }
+        ]
+    },
+    {
+        "id": 19347,
+        "medicine_name": "Quick Check Test Strip",
+        "category_name": "Test Strips",
+        "slug": "quick-check-blood-glucose-test-strips",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "25 Strips",
+        "manufacturer_name": "Swiscare Technology Co Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0090.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Pack",
+                "unit_size": 1,
+                "price": 400
+            }
+        ]
+    },
+    {
+        "id": 19228,
+        "medicine_name": "VivaChek Ino Test Strip",
+        "category_name": "Test Strip",
+        "slug": "vivachek-ino-blood-glucose-test-strips",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "50 Strips",
+        "manufacturer_name": "Vivacheck Biotech Inc. Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 8,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0106.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 1050
+            }
+        ]
+    },
+    {
+        "id": 19499,
+        "medicine_name": "GlucoLeader Enhance Blue Test Strip",
+        "category_name": "Test Strip",
+        "slug": "glucoleader-enhance-fda-510k-machine-red",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "25 Strip",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 2,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0064.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Test Strips",
+                "unit_size": 1,
+                "price": 412
+            }
+        ]
+    },
+    {
+        "id": 19279,
+        "medicine_name": "Blood Lancets (Mediron)",
+        "category_name": "Twist Type",
+        "slug": "blood-lancets-100-twist-type",
+        "generic_name": "Needle",
+        "strength": "100",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0074.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100's Strip",
+                "unit_size": 100,
+                "price": 120
+            }
+        ]
+    },
+    {
+        "id": 20156,
+        "medicine_name": "Bionime Rightest Test Strip",
+        "category_name": "Test Strip",
+        "slug": "bionime-rightest-test-strip-gs700s-test-strip",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "GS700S",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0049.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Strips",
+                "unit_size": 1,
+                "price": 655
+            }
+        ]
+    },
+    {
+        "id": 19106,
+        "medicine_name": "Bionim GS 100 Test Strip",
+        "category_name": "Blood Glucose Test Strip",
+        "slug": "bionim-gs-100-blood-glucose-test-strip",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "",
+        "manufacturer_name": "Technokit Healthcare Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 3,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_bionime.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Strip",
+                "unit_size": 1,
+                "price": 675
+            }
+        ]
+    },
+    {
+        "id": 20131,
+        "medicine_name": "DispoVan Syringe 40IU",
+        "category_name": "Insulin Syringe",
+        "slug": "dispo-van-u-40-1ml-insulin-syringe",
+        "generic_name": "Single Use Insulin Syringes",
+        "strength": "U-40 1ml",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/images_m6wGxr2.jpeg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 10
+            },
+            {
+                "unit": "100's Pack",
+                "unit_size": 100,
+                "price": 1000
+            }
+        ]
+    },
+    {
+        "id": 19309,
+        "medicine_name": "On Call Plus Test Strip",
+        "category_name": "Test Strip",
+        "slug": "on-call-plus-50-blood-glucose-test-strips",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "50 Strips",
+        "manufacturer_name": "Acon Laboratories Inc",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0088.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Strips",
+                "unit_size": 1,
+                "price": 1000
+            }
+        ]
+    },
+    {
+        "id": 19608,
+        "medicine_name": "Insulin Carry Bag",
+        "category_name": "Ice Bag",
+        "slug": "cooler-bag-with-ice-pad-insulin-box",
+        "generic_name": "Insulin Carry bag with Ice Pad",
+        "strength": "",
+        "manufacturer_name": "Healthcare Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_insulin_carry_bag.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 250
+            }
+        ]
+    },
+    {
+        "id": 19611,
+        "medicine_name": "Match Test Strip",
+        "category_name": "Test Strip",
+        "slug": "match-50-strips",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "50",
+        "manufacturer_name": "VivaCheck Laboratories Inc",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_match_50.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Test Strip",
+                "unit_size": 1,
+                "price": 1080
+            }
+        ]
+    },
+    {
+        "id": 20490,
+        "medicine_name": "ACCU-CHEK Instant",
+        "category_name": "Test strip",
+        "slug": "accu-chek-instant-25-test-strip",
+        "generic_name": "Blood glucose monitoring device",
+        "strength": "25 Strips",
+        "manufacturer_name": "Radiant Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 4,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Accu_check.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Test Strip",
+                "unit_size": 1,
+                "price": 711.25
+            }
+        ]
+    },
+    {
+        "id": 19281,
+        "medicine_name": "Accu-Chek Instant",
+        "category_name": "Blood Glucose Test Strips",
+        "slug": "accu-chek-instant-50-blood-glucose-test-strips",
+        "generic_name": "Determination of Blood Glucose",
+        "strength": "50",
+        "manufacturer_name": "Novartis (Bangladesh) Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Accu-Chek-Instant-50.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Test Strips",
+                "unit_size": 1,
+                "price": 1400
+            }
+        ]
+    },
+    {
+        "id": 19600,
+        "medicine_name": "OneTouch Verio",
+        "category_name": "Flex Test Strips",
+        "slug": "onetouch-verio-50-flex-test-strips",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "50",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 2,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/One-Touch-Verio-Strips-50s-Pack.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Strip",
+                "unit_size": 50,
+                "price": 1950
+            }
+        ]
+    },
+    {
+        "id": 19701,
+        "medicine_name": "One Touch Verio",
+        "category_name": "Blood Glucose Test Strips",
+        "slug": "one-touch-verio-blood-glucose-test-strips",
+        "generic_name": "N/A",
+        "strength": ".",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 2,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/One_Touch_vario.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 50,
+                "price": 1950
+            }
+        ]
+    },
+    {
+        "id": 19707,
+        "medicine_name": "GlucoLab Test Strip",
+        "category_name": "Test Strip",
+        "slug": "glucolab-test-strips",
+        "generic_name": "Blood Glucose Test Strips",
+        "strength": "",
+        "manufacturer_name": ".",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/images_1.jpeg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Pack",
+                "unit_size": 25,
+                "price": 550
+            },
+            {
+                "unit": "50's Pack",
+                "unit_size": 50,
+                "price": 1100
+            }
+        ]
+    },
+    {
+        "id": 19566,
+        "medicine_name": "Wister",
+        "category_name": "Blood Glucose Test Strips",
+        "slug": "wister-25-blood-glucose-test-strips",
+        "generic_name": "Strip",
+        "strength": "25",
+        "manufacturer_name": "MicroTech Medical",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Wister-Strip.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Strip",
+                "unit_size": 25,
+                "price": 525
+            }
+        ]
+    },
+    {
+        "id": 20153,
+        "medicine_name": "GlucoLeader Enhance Red Meter",
+        "category_name": "Glucose Machine",
+        "slug": "glucoleader-enhance-red-meter-fda-510-k-glucose-machine",
+        "generic_name": "Self Monitoring Blood Glucose System",
+        "strength": "FDA 510 k",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0111.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1156
+            }
+        ]
+    },
+    {
+        "id": 20151,
+        "medicine_name": "Quick Check Blood  Glucose Meter",
+        "category_name": "Glucometer Machine",
+        "slug": "quick-check-blood-glucose-meter-glucometer-machine",
+        "generic_name": "Self Monitoring Blood Glucose System",
+        "strength": "",
+        "manufacturer_name": "Swiscare Technology Co Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0136.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1500
+            }
+        ]
+    },
+    {
+        "id": 19109,
+        "medicine_name": "OneTouch Ultra",
+        "category_name": "Strips",
+        "slug": "onetouch-ultra-25-strips",
+        "generic_name": "N/A",
+        "strength": "25",
+        "manufacturer_name": "Blood Glucose Test",
+        "discount_type": "Percentage",
+        "discount_value": 2,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/one_touch_ultra_25.jpeg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's strip",
+                "unit_size": 25,
+                "price": 900
+            }
+        ]
+    },
+    {
+        "id": 20152,
+        "medicine_name": "On Call Plus Blood Glucose Meter",
+        "category_name": "Glucometer Machine",
+        "slug": "on-call-plus-blood-glucose-meter-g1113-214-glucometer-machine",
+        "generic_name": "Self Monitoring Blood Glucose System",
+        "strength": "G1113-214",
+        "manufacturer_name": "Acon Laboratories Inc",
+        "discount_type": "Percentage",
+        "discount_value": 15,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0139.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1700
+            }
+        ]
+    },
+    {
+        "id": 20155,
+        "medicine_name": "Bionime Blood Glucose Meter",
+        "category_name": "Glucometer Machine",
+        "slug": "bionime-blood-glucose-meter-gm-700s-glucometer-machine",
+        "generic_name": "Self Monitoring Blood Glucose Meter",
+        "strength": "GM 700S",
+        "manufacturer_name": "Technokit Healthcare Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 35,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0086.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2000
+            }
+        ]
+    },
+    {
+        "id": 19589,
+        "medicine_name": "Digital ACCU-ANSWER",
+        "category_name": "Blood Glucose Test Strips",
+        "slug": "digital-accu-answer-50-blood-glucose-test-strips",
+        "generic_name": "Determination of Blood Glucose",
+        "strength": "50",
+        "manufacturer_name": "Novartis (Bangladesh) Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Digital-Accu-Answer-Blood-Glucose-Test-Strips.jpeg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25' Test Strips",
+                "unit_size": 25,
+                "price": 550
+            },
+            {
+                "unit": "50' Test Strips",
+                "unit_size": 50,
+                "price": 1100
+            }
+        ]
+    },
+    {
+        "id": 20154,
+        "medicine_name": "VivaChek Ino Meter",
+        "category_name": "Glucometer Machine",
+        "slug": "vivacheck-ino-meter-vgm01-glucometer-machine",
+        "generic_name": "Self Monitoring Blood Glucose System",
+        "strength": "VGM01",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0097.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2250
+            }
+        ]
+    },
+    {
+        "id": 20479,
+        "medicine_name": "VivaChek Eco+",
+        "category_name": "Test strip",
+        "slug": "vivachek-eco-25-s-pack-test-strip",
+        "generic_name": "Blood glucose monitoring device",
+        "strength": "25's Pack",
+        "manufacturer_name": "VivaChek Biotech (Hangzhou) Co., Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Vivachek-Eco-Test-Strips.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "25's Pack",
+                "unit_size": 1,
+                "price": 525
+            }
+        ]
+    }
+]

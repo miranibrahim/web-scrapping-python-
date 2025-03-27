@@ -1,0 +1,794 @@
+[
+    {
+        "id": 19243,
+        "medicine_name": "Freedom Heavy Flow Wings",
+        "category_name": "Women's Choice",
+        "slug": "freedom-heavy-flow-wings-16-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "16 Pads",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0141.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "16's Pads",
+                "unit_size": 1,
+                "price": 200
+            }
+        ]
+    },
+    {
+        "id": 19407,
+        "medicine_name": "Femicon",
+        "category_name": "Pill",
+        "slug": "femicon-pill-0-30-mg-0-03-mg-women-s-care",
+        "generic_name": "Ethinylestradiol + Ferrous Fumarate + Norgestrel",
+        "strength": "",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 8,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0171.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "1's Pack",
+                "unit_size": 1,
+                "price": 45.5
+            }
+        ]
+    },
+    {
+        "id": 19238,
+        "medicine_name": "Senora Confidence Regular Flow (Panty System)",
+        "category_name": "Women's Choice",
+        "slug": "senora-confidence-regular-flow-panty-system-15-pad-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "15 Pads",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231021-WA0223.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "15's Pads",
+                "unit_size": 1,
+                "price": 150
+            }
+        ]
+    },
+    {
+        "id": 19248,
+        "medicine_name": "Noret 28",
+        "category_name": "Pill",
+        "slug": "noret-28-0-03-75-0-30mg-pill",
+        "generic_name": "Ethinylestradiol + Ferrous Fumarate + Norgestrel",
+        "strength": "0.03+75+0.30mg",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0169.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "28's Pack",
+                "unit_size": 1,
+                "price": 23.52
+            }
+        ]
+    },
+    {
+        "id": 19241,
+        "medicine_name": "Senora Belt",
+        "category_name": "Women's Choice",
+        "slug": "senora-sanitary-napkin-belt-16-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "15 Pads",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231021-WA0177.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "15's Pads",
+                "unit_size": 1,
+                "price": 130
+            }
+        ]
+    },
+    {
+        "id": 19244,
+        "medicine_name": "Joya Wings Regular Flow",
+        "category_name": "Women's Choice",
+        "slug": "joya-wings-regular-flow-8-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 pads",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0180.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 80
+            }
+        ]
+    },
+    {
+        "id": 19081,
+        "medicine_name": "Minicon",
+        "category_name": "Pill",
+        "slug": "minicon-tablet",
+        "generic_name": "Norgestrel",
+        "strength": "",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0170_TMcfVr6.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "28's pack",
+                "unit_size": 1,
+                "price": 40
+            }
+        ]
+    },
+    {
+        "id": 19247,
+        "medicine_name": "Senora Panty",
+        "category_name": "Women's Choice",
+        "slug": "senora-sanitary-napkin-panty-16-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "15 Pads",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231021-WA0178.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "15's Pads",
+                "unit_size": 1,
+                "price": 130
+            }
+        ]
+    },
+    {
+        "id": 19255,
+        "medicine_name": "Pregnancy Test Strip (Prega News)",
+        "category_name": "Women's Choice",
+        "slug": "pregnancy-test-strip-prega-news-women-s-choice",
+        "generic_name": "Pregnancy Test Strip",
+        "strength": "",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 40,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_prega_test.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 75
+            }
+        ]
+    },
+    {
+        "id": 19250,
+        "medicine_name": "Joya Sanitary Napkin (Belt)",
+        "category_name": "Women's Choice",
+        "slug": "joya-sanitary-napkin-belt-8-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0178.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 60
+            }
+        ]
+    },
+    {
+        "id": 19082,
+        "medicine_name": "Freedom Heavy Flow Wings",
+        "category_name": "Women's Choice",
+        "slug": "freedom-heavy-flow-wings-8-pads-napkin",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Freedom_Sanitary_Napkin_Heavy_Flow_Wings.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pack",
+                "unit_size": 1,
+                "price": 110
+            }
+        ]
+    },
+    {
+        "id": 19242,
+        "medicine_name": "Pregnancy Test Strip ( Good News)",
+        "category_name": "Women's Choice",
+        "slug": "pregnancy-test-strip-good-lady-news-good-news-digital-cassette",
+        "generic_name": "Pregnancy Test Strip",
+        "strength": "",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 40,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0058.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 19240,
+        "medicine_name": "WHISPER MAXI NIGHTS",
+        "category_name": "Women's Choice",
+        "slug": "whisper-maxi-nights-15-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "15 Pads",
+        "manufacturer_name": "Sun Pharmaceutical Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0133.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "15's Pads",
+                "unit_size": 1,
+                "price": 430
+            }
+        ]
+    },
+    {
+        "id": 19264,
+        "medicine_name": "Femipil",
+        "category_name": "Pill",
+        "slug": "femipil-0-030-0-15mg-women-s-choice",
+        "generic_name": "Ethinylestradiol + Levonorgestrel",
+        "strength": "0.030+0.15mg",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0172.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "28 Tablets",
+                "unit_size": 1,
+                "price": 24.5
+            }
+        ]
+    },
+    {
+        "id": 19245,
+        "medicine_name": "Whisper Ultra Comfort XL",
+        "category_name": "Women's Choice",
+        "slug": "whisper-ultra-clean-xl-8-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "Sun Pharmaceutical Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0140.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 220
+            }
+        ]
+    },
+    {
+        "id": 11983,
+        "medicine_name": "Norpill",
+        "category_name": "Tablet",
+        "slug": "norpill-1-5-mg-tablet",
+        "generic_name": "Levonorgestrel",
+        "strength": "1.5 mg",
+        "manufacturer_name": "Square Pharmaceuticals PLC.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20240122-WA0283.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "1's pack",
+                "unit_size": 1,
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 8392,
+        "medicine_name": "I-Pill DS",
+        "category_name": "Tablet",
+        "slug": "i-pill-ds-1-5-mg-tablet",
+        "generic_name": "Levonorgestrel",
+        "strength": "1.5 mg",
+        "manufacturer_name": "Popular Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231221-WA0144.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "1 tablet pack",
+                "unit_size": 1,
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 19268,
+        "medicine_name": "Senora feather light",
+        "category_name": "Women's Choice",
+        "slug": "senora-ultrathin-heavy-flow-8-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 pads",
+        "manufacturer_name": "Square Toiletries Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-07-17_at_17.20.15_a627bff6.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 120
+            }
+        ]
+    },
+    {
+        "id": 19262,
+        "medicine_name": "WHISPER MAXI FIT",
+        "category_name": "Women's Choice",
+        "slug": "whisper-maxi-fit-15-pads-l-wings-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "15 Pads L Wings",
+        "manufacturer_name": "Sun Pharmaceutical Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0198.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "15's Pads",
+                "unit_size": 1,
+                "price": 430
+            }
+        ]
+    },
+    {
+        "id": 19257,
+        "medicine_name": "Joya Ultra Comfort Wings",
+        "category_name": "Women's Choice",
+        "slug": "joya-ultra-comfort-wings-8-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0179.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 19810,
+        "medicine_name": "Whisper Ultra Comfort XL",
+        "category_name": "Women's Care",
+        "slug": "whisper-ultra-clean-xl-15-pads-women-s-care",
+        "generic_name": "Sanitary Napkins",
+        "strength": "15 Pads",
+        "manufacturer_name": "Sun Pharmaceutical Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0114.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "15's Pads",
+                "unit_size": 1,
+                "price": 365
+            }
+        ]
+    },
+    {
+        "id": 19254,
+        "medicine_name": "Freedom Belt System",
+        "category_name": "Women's Choice",
+        "slug": "freedom-belt-system-8-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0113.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 60
+            }
+        ]
+    },
+    {
+        "id": 19256,
+        "medicine_name": "Joya Extra Heavy Flow Wings",
+        "category_name": "Women's Choice",
+        "slug": "joya-extra-heavy-flow-wings-8-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0181.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 110
+            }
+        ]
+    },
+    {
+        "id": 19252,
+        "medicine_name": "Joya All Night Wings",
+        "category_name": "Women's Choice",
+        "slug": "joya-all-night-wings-8-pads-women-s-choice",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "SMC Enterprise Limited",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0182.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 120
+            }
+        ]
+    },
+    {
+        "id": 19811,
+        "medicine_name": "Whisper Ultra Clean XL+ Plus",
+        "category_name": "Women's Care",
+        "slug": "whisper-ultra-clean-xl-plus-7-pads-women-s-care",
+        "generic_name": "Sanitary Napkins",
+        "strength": "7 Pads",
+        "manufacturer_name": "Sun Pharmaceutical Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_whisper_ultra_cleaan_xl_7pads.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "7's Pads",
+                "unit_size": 1,
+                "price": 185
+            }
+        ]
+    },
+    {
+        "id": 19263,
+        "medicine_name": "Freedom Ultra Wings",
+        "category_name": "Women's Care",
+        "slug": "freedom-ultra-wings-8-pads-women-s-care",
+        "generic_name": "Super Dry Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "ACI Consumer Brands",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/savlon-freedom-ultra-wings-women's-choice-.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 120
+            }
+        ]
+    },
+    {
+        "id": 20125,
+        "medicine_name": "Herbalika Dry and Fresh Everyday",
+        "category_name": "Sanitary Napkin",
+        "slug": "herbalika-dry-and-fresh-everyday-20-pcs-sanitary-napkin",
+        "generic_name": "Sweet Teen Panty Liners",
+        "strength": "20 Liners",
+        "manufacturer_name": "Girlco Authenticity Redefined",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/sweet_teen_panty_liners_01.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "20's Pcs",
+                "unit_size": 1,
+                "price": 200
+            }
+        ]
+    },
+    {
+        "id": 10274,
+        "medicine_name": "Mayapill",
+        "category_name": "Pill",
+        "slug": "mayapill-30-mcg-150-mcg-75-mg-tablet",
+        "generic_name": "Ethinylestradiol + Levonorgestrel + Ferrous Fumarate",
+        "strength": "30 mcg+150 mcg+75 mg",
+        "manufacturer_name": "ACME Laboratories Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Mayapill.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "28 Tablet",
+                "unit_size": 1,
+                "price": 23.52
+            }
+        ]
+    },
+    {
+        "id": 20548,
+        "medicine_name": "Menstrual cup reusable for women hygiene during period anytime betterhealth",
+        "category_name": "Women's Care",
+        "slug": "betterhealth-menstrual cup-reusable",
+        "generic_name": "Menstrual Cup",
+        "strength": "(Small)",
+        "manufacturer_name": "Betterhealth",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Cream-and-Green-World-Environment-Day-Talk-Instagram-Post-3.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Pack",
+                "unit_size": 1,
+                "price": 1050
+            }
+        ]
+    },
+    {
+        "id": 20128,
+        "medicine_name": "Herbalika Bliss Night",
+        "category_name": "Sanitary Pad",
+        "slug": "herbalika-bliss-night-8-pads-sanitary-pad",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "Girlco Authenticity Redefined",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/bliss_night_01.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 190
+            }
+        ]
+    },
+    {
+        "id": 20123,
+        "medicine_name": "Cranberry Organic Intimate Wash",
+        "category_name": "Organic Intimate Wash",
+        "slug": "cranberry-whitening-organic-intimate-wash-180-ml-organic-intimate-wash",
+        "generic_name": "Whitening Foam Wash",
+        "strength": "180 ml",
+        "manufacturer_name": "Girlco Authenticity Redefined",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/cranberry_front.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "id": 20122,
+        "medicine_name": "Comfrey Organic Intimate Wash",
+        "category_name": "Organic Intimate Wash",
+        "slug": "comfrey-organic-intimate-wash-50-ml-organic-intimate-wash",
+        "generic_name": "Anti-Bacterial Foam Wash",
+        "strength": "50 ml",
+        "manufacturer_name": "Girlco Authenticity Redefined",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/comfrey_front.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 800
+            }
+        ]
+    },
+    {
+        "id": 20124,
+        "medicine_name": "Herbalika Slay the Day",
+        "category_name": "Sanitary Napkin",
+        "slug": "herbalika-slay-the-day-8-pads-sanitary-napkin",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "Girlco Authenticity Redefined",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/slay_the_day_front_image.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pad",
+                "unit_size": 1,
+                "price": 175
+            }
+        ]
+    },
+    {
+        "id": 20126,
+        "medicine_name": "Herbalika For Non-Period Days",
+        "category_name": "Sanitary Napkin",
+        "slug": "herbalika-for-non-period-days-20-liners-sanitary-napkin",
+        "generic_name": "Panty Liners",
+        "strength": "20 Liners",
+        "manufacturer_name": "Girlco Authenticity Redefined",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/regular_panty_liner_5.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "20's Pcs",
+                "unit_size": 1,
+                "price": 235
+            }
+        ]
+    },
+    {
+        "id": 20803,
+        "medicine_name": "Menstrual cup reusable for women hygiene during period anytime betterhealth",
+        "category_name": "Women's Care",
+        "slug": "menstrual-cup-reusable-for-women-hygiene-during-period-anytime-betterhealth-large-women-s-care",
+        "generic_name": "Menstrual Cup",
+        "strength": "(Large)",
+        "manufacturer_name": "Betterhealth",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Menstrual_Cup.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1050
+            }
+        ]
+    },
+    {
+        "id": 20127,
+        "medicine_name": "Herbalika Sweet Teen",
+        "category_name": "Sanitary Pad",
+        "slug": "herbalika-sweet-teen-8-pads-sanitary-pad",
+        "generic_name": "Sanitary Napkin",
+        "strength": "8 Pads",
+        "manufacturer_name": "Girlco Authenticity Redefined",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/sweet_teen_01.1.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "8's Pads",
+                "unit_size": 1,
+                "price": 190
+            }
+        ]
+    }
+]

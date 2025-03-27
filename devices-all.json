@@ -1,0 +1,288 @@
+[
+    {
+        "id": 19134,
+        "medicine_name": "Thermometer",
+        "category_name": "Digital",
+        "slug": "thermometer-digital-digital",
+        "generic_name": "Digital Thermometer",
+        "strength": "Digital",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 30,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0047.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 265
+            }
+        ]
+    },
+    {
+        "id": 19404,
+        "medicine_name": "Thermometer (Clinical)",
+        "category_name": "Analog",
+        "slug": "thermometer-clinical-analog-analog",
+        "generic_name": "Armpit C&F",
+        "strength": "Analog",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0157.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "piece",
+                "unit_size": 1,
+                "price": 120
+            }
+        ]
+    },
+    {
+        "id": 20157,
+        "medicine_name": "Digital Weight Machine (Comfort)",
+        "category_name": "Surgical Kit",
+        "slug": "digital-weight-machine-comfort-st-101-surgical-kit",
+        "generic_name": "Weight Scale",
+        "strength": "ST 101",
+        "manufacturer_name": "Made in P.R.C Japan",
+        "discount_type": "Percentage",
+        "discount_value": 20,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0145.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1400
+            }
+        ]
+    },
+    {
+        "id": 20150,
+        "medicine_name": "Blood Pressure Machine Digital (Jumper)",
+        "category_name": "Pressure Machine Analog",
+        "slug": "blood-pressure-machine-jumer-jpd-ha-200-surgical-kit",
+        "generic_name": "Electronic Blood Pressure Monitor",
+        "strength": "JPD HA 200",
+        "manufacturer_name": "Made in China",
+        "discount_type": "Percentage",
+        "discount_value": 20,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0102.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2500
+            }
+        ]
+    },
+    {
+        "id": 20148,
+        "medicine_name": "Blood Pressure Machine (ALPK2)",
+        "category_name": "Pressure Machine Analog",
+        "slug": "blood-pressure-machine-alpk2-1-surgical-kit",
+        "generic_name": "Blood Pressure Machine With Stethoscope",
+        "strength": "Original",
+        "manufacturer_name": "Tanaka Sangyo Co Ltd",
+        "discount_type": "Percentage",
+        "discount_value": 15,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0144.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 3250
+            }
+        ]
+    },
+    {
+        "id": 19558,
+        "medicine_name": "Pulse Oximeter (Jumper)",
+        "category_name": "Surgical Kit",
+        "slug": "jumper-jpd-500d-500-d-pulse-oximeter",
+        "generic_name": "Pulse Oximeter",
+        "strength": "JPD-500D",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 20,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Pulse_Oximeter_JumperJPD-500D.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1600
+            }
+        ]
+    },
+    {
+        "id": 20520,
+        "medicine_name": "Blood Pressure Machine Digital (ALPK2)",
+        "category_name": "Pressure Machine Digital",
+        "slug": "blood-pressure-machine-alpk2-original-pressure-machine-digital",
+        "generic_name": "Blood Pressure Machine With Stethoscope",
+        "strength": "Original",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 20,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/1_etxO8da.original.jpegquality-30.format-webp.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2500
+            }
+        ]
+    },
+    {
+        "id": 20149,
+        "medicine_name": "Blood Pressure Machine (ALPK2) Special",
+        "category_name": "Pressure Machine Analog",
+        "slug": "blood-pressure-machine-alpk2-2-surgical-kit",
+        "generic_name": "Blood Pressure Machine With Stethoscope",
+        "strength": "",
+        "manufacturer_name": "Made in Japan",
+        "discount_type": "Percentage",
+        "discount_value": 15,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0144_7PkUbHt.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2570
+            }
+        ]
+    },
+    {
+        "id": 20489,
+        "medicine_name": "ACCU-CHEK Instant S",
+        "category_name": "Glucometer",
+        "slug": "accu-chek-instant-s-small-glucometer",
+        "generic_name": "Blood glucose monitoring device",
+        "strength": "Small",
+        "manufacturer_name": "Radiant Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/ACCU-CHEK_Instant_S.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2623
+            }
+        ]
+    },
+    {
+        "id": 19625,
+        "medicine_name": "Digital Weight machine",
+        "category_name": "weight machine",
+        "slug": "digital-weight-machine-weight-machine",
+        "generic_name": "weight machine",
+        "strength": "",
+        "manufacturer_name": "Get Well Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_getwell_weight_machine_C47315O.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 2050
+            }
+        ]
+    },
+    {
+        "id": 20785,
+        "medicine_name": "Thermometer (SHIFA)",
+        "category_name": "Digital",
+        "slug": "flexible-digital-thermometer-shifa-digital-digital",
+        "generic_name": "Flexible Digital Thermometer",
+        "strength": "",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 30,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Flexible.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 320
+            }
+        ]
+    },
+    {
+        "id": 20573,
+        "medicine_name": "ProCare Digital Weight Machine Scale - Orange",
+        "category_name": "Weight Matchine",
+        "slug": "procare-digital-weight-machine-scale-orange-weight-matchine",
+        "generic_name": "Weight Matchine",
+        "strength": "",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/procare_scale.png",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1400
+            }
+        ]
+    },
+    {
+        "id": 20782,
+        "medicine_name": "Pulse Oximeter (ProCare)",
+        "category_name": "Surgical Kit",
+        "slug": "pulse-oximeter-procare-pro-999-surgical-kit",
+        "generic_name": "Pulse Oximeter",
+        "strength": "Pro-999",
+        "manufacturer_name": "Mundipharma (BD) Pvt. Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 20,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/download.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 1275
+            }
+        ]
+    }
+]

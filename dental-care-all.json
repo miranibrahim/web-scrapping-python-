@@ -1,0 +1,442 @@
+[
+    {
+        "id": 12769,
+        "medicine_name": "Orostar Plus",
+        "category_name": "Mouthwash",
+        "slug": "orostar-plus-mouthwash",
+        "generic_name": "Eucalyptol + Menthol + Methyl Salicylate + Thymol + Sodium Fluoride",
+        "strength": "250 ml",
+        "manufacturer_name": "Square Pharmaceuticals PLC.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231021-WA0085.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "250 ml bottle",
+                "unit_size": 1,
+                "price": 150
+            }
+        ]
+    },
+    {
+        "id": 20019,
+        "medicine_name": "Mediplus DS",
+        "category_name": "Toothpaste",
+        "slug": "mediplus-ds-140-gm-toothpaste",
+        "generic_name": "Toothpaste",
+        "strength": "140 gm",
+        "manufacturer_name": "Anfords",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_mediplus_ds.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "140 gm Tube",
+                "unit_size": 1,
+                "price": 135
+            }
+        ]
+    },
+    {
+        "id": 9704,
+        "medicine_name": "Listacare Blue Mint",
+        "category_name": "Mouthwash",
+        "slug": "listacare-blue-mint-mouthwash",
+        "generic_name": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
+        "strength": "120 ml",
+        "manufacturer_name": "General Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231019-WA0499.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120 ml bottle",
+                "unit_size": 1,
+                "price": 80
+            }
+        ]
+    },
+    {
+        "id": 19748,
+        "medicine_name": "Mediplus",
+        "category_name": "Toothpaste",
+        "slug": "mediplus-toothpaste-140-gm-oral-paste",
+        "generic_name": "Ultimate Dental Care",
+        "strength": "140 gm",
+        "manufacturer_name": "Anfords",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0137.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "140 gm tube",
+                "unit_size": 1,
+                "price": 90
+            }
+        ]
+    },
+    {
+        "id": 20021,
+        "medicine_name": "Mediplus Toothbrush",
+        "category_name": "Toothbrush",
+        "slug": "mediplus-toothbrush-toothbrush",
+        "generic_name": "Toothbrush",
+        "strength": "",
+        "manufacturer_name": "Anfords",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0079.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 90
+            }
+        ]
+    },
+    {
+        "id": 20020,
+        "medicine_name": "Mediplus Fluoride Gel",
+        "category_name": "Toothpaste",
+        "slug": "mediplus-fluoride-gel-100-gm-toothpaste",
+        "generic_name": "Toothpaste",
+        "strength": "100 gm",
+        "manufacturer_name": "Anfords",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0061.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100 gm tube",
+                "unit_size": 1,
+                "price": 100
+            }
+        ]
+    },
+    {
+        "id": 9705,
+        "medicine_name": "Listacare Gold",
+        "category_name": "Mouthwash",
+        "slug": "listacare-gold-mouthwash",
+        "generic_name": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
+        "strength": "120 ml",
+        "manufacturer_name": "General Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231019-WA0497.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120 ml bottle",
+                "unit_size": 1,
+                "price": 80
+            }
+        ]
+    },
+    {
+        "id": 19294,
+        "medicine_name": "Orostar Plus",
+        "category_name": "Mouthwash",
+        "slug": "orostar-plus-120-ml-mouthwash",
+        "generic_name": "Eucalyptol + Menthol + Methyl Salicylate + Thymol + Sodium Fluoride",
+        "strength": "120 ml",
+        "manufacturer_name": "Square Pharmaceuticals PLC.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_orostar_plus.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120 ml bottle",
+                "unit_size": 1,
+                "price": 85.26
+            }
+        ]
+    },
+    {
+        "id": 19712,
+        "medicine_name": "Sensodyne Fresh Gel",
+        "category_name": "Oral Paste",
+        "slug": "sensodyne-fresh-gel-toothpaste-150-gm",
+        "generic_name": "Long Lasting Protection",
+        "strength": "75 gm",
+        "manufacturer_name": "GSK",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0187.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "75 gm Tube",
+                "unit_size": 1,
+                "price": 190
+            }
+        ]
+    },
+    {
+        "id": 12767,
+        "medicine_name": "Orostar Cool Mint",
+        "category_name": "Mouthwash",
+        "slug": "orostar-cool-mint-mouthwash",
+        "generic_name": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
+        "strength": "120 ml",
+        "manufacturer_name": "Square Pharmaceuticals PLC.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_orostar_cool_mint.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "120 ml bottle",
+                "unit_size": 1,
+                "price": 80.24
+            }
+        ]
+    },
+    {
+        "id": 19750,
+        "medicine_name": "Sensodyne Repair & Protect",
+        "category_name": "Oral Paste",
+        "slug": "sensodyne-rapid-protect-100-gm-oral-paste",
+        "generic_name": "Long Lasting Protection",
+        "strength": "70 gm",
+        "manufacturer_name": "GSK",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/medeasy_sensodyne_repaire_protect.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "70 gm Tube",
+                "unit_size": 1,
+                "price": 340
+            }
+        ]
+    },
+    {
+        "id": 19799,
+        "medicine_name": "Sensodyne Sensitive Toothbrush",
+        "category_name": "Toothbrush",
+        "slug": "sensodyne-toothbrush-toothbrush",
+        "generic_name": "Toothbrush",
+        "strength": ".",
+        "manufacturer_name": "GSK",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0177.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "Piece",
+                "unit_size": 1,
+                "price": 110
+            }
+        ]
+    },
+    {
+        "id": 20564,
+        "medicine_name": "Dental Floss (Toothpick)",
+        "category_name": "Dental Care",
+        "slug": "dental-floss-smartcure-50-pieces-box-dental-care",
+        "generic_name": "Oral Hygiene",
+        "strength": "50 Pieces Box",
+        "manufacturer_name": "SmartCure Limited.",
+        "discount_type": "Percentage",
+        "discount_value": 25,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/WhatsApp_Image_2024-06-25_at_13.30.55_c225d710.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "50's Pack",
+                "unit_size": 1,
+                "price": 135
+            }
+        ]
+    },
+    {
+        "id": 19835,
+        "medicine_name": "Sensodyne Rapid Relief",
+        "category_name": "Oral Paste",
+        "slug": "sensodyne-rapid-relief-100-gm-oral-paste",
+        "generic_name": "Long Lasting Protection",
+        "strength": "80 gm",
+        "manufacturer_name": "GSK",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0188.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "80 gm Tube",
+                "unit_size": 1,
+                "price": 310
+            }
+        ]
+    },
+    {
+        "id": 20233,
+        "medicine_name": "Mediplus DS",
+        "category_name": "Toothpaste",
+        "slug": "mediplus-ds-90-gm-toothpaste",
+        "generic_name": "Toothpaste",
+        "strength": "90 gm",
+        "manufacturer_name": "Anfords",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0128.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "90 gm Tube",
+                "unit_size": 1,
+                "price": 90
+            }
+        ]
+    },
+    {
+        "id": 20062,
+        "medicine_name": "Sensodyne Fresh Mint",
+        "category_name": "Oral Paste",
+        "slug": "sensodyne-fresh-mint-75-gm-oral-paste",
+        "generic_name": "Oral Paste",
+        "strength": "75 gm",
+        "manufacturer_name": "GSK",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20231029-WA0184.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "75 gm Tube",
+                "unit_size": 1,
+                "price": 190
+            }
+        ]
+    },
+    {
+        "id": 2117,
+        "medicine_name": "Betadine",
+        "category_name": "Mouthwash",
+        "slug": "betadine-1-w-v-mouthwash",
+        "generic_name": "Povidone Iodine",
+        "strength": "1% w/v",
+        "manufacturer_name": "City Overseas Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/IMG-20240122-WA0288.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "100 ml bottle",
+                "unit_size": 1,
+                "price": 50
+            }
+        ]
+    },
+    {
+        "id": 20331,
+        "medicine_name": "Parodontax Ultra Clean Gum Care Toothpaste",
+        "category_name": "Oral Paste",
+        "slug": "parodontax-ultra-clean-75-gm-oral-paste",
+        "generic_name": "Expert Gum Care",
+        "strength": "75 gm",
+        "manufacturer_name": "GSK",
+        "discount_type": "Percentage",
+        "discount_value": 5,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/0623316_parodontax-ultra-clean-toothpaste-for-daily-protection-75ml.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "75 gm Tube",
+                "unit_size": 1,
+                "price": 200
+            }
+        ]
+    },
+    {
+        "id": 20330,
+        "medicine_name": "Sensodyne Whitening",
+        "category_name": "Oral Paste",
+        "slug": "sensodyne-whitening-70-gm-oral-paste",
+        "generic_name": "Daily Sensitivity Protection",
+        "strength": "70 gm",
+        "manufacturer_name": "GSK",
+        "discount_type": "Percentage",
+        "discount_value": 0,
+        "is_discountable": false,
+        "is_available": true,
+        "medicine_image": "https://api.medeasy.health/media/medicines/Optimized_LDqceFg.jpg",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "70 gm Tube",
+                "unit_size": 1,
+                "price": 200
+            }
+        ]
+    },
+    {
+        "id": 9706,
+        "medicine_name": "Listacare Gold",
+        "category_name": "Mouthwash",
+        "slug": "listacare-plus-0-022-mouthwash",
+        "generic_name": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
+        "strength": "250 ml",
+        "manufacturer_name": "General Pharmaceuticals Ltd.",
+        "discount_type": "Percentage",
+        "discount_value": 10,
+        "is_discountable": false,
+        "is_available": false,
+        "medicine_image": "https://api.medeasy.health/media/medicines/untitled-1-1632206876464.webp",
+        "rx_required": false,
+        "unit_prices": [
+            {
+                "unit": "250 ml bottle",
+                "unit_size": 1,
+                "price": 145
+            }
+        ]
+    }
+]
